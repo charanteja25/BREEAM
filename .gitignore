@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+data/ingested/
+data/page_images/
+data/*_index.json
+data/*_index_filtered.json
+data/*_section_index.json
+
+test-docs/
