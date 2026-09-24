@@ -1818,52 +1818,52 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "Protection measures are incorporated into the building's design and construction to reduce damage to the\nbuilding’s fabric or materials in case of accidental or malicious damage occurring. These measures must\nprovide protection against:"
           },
           {
             "id": "1.a",
-            "group": "One credit",
+            "group": null,
             "text": "Negative impacts of high user numbers in relevant areas of the building (e.g. corridors, lifts, stairs,\ndoors etc.)."
           },
           {
             "id": "1.b",
-            "group": "One credit",
+            "group": null,
             "text": "Damage from any vehicle or trolley movements within 1m of the internal building fabric in storage,\ndelivery, corridor and kitchen areas."
           },
           {
             "id": "1.c",
-            "group": "One credit",
+            "group": null,
             "text": "External building fabric damage by a vehicle. Protection where parking or manoeuvring areas are\nwithin 1 metre of the building façade and where delivery areas or routes are within 2 metres of the\nfaçade, i.e. specifying bollards or protection rails."
           },
           {
             "id": "1.d",
-            "group": "One credit",
+            "group": null,
             "text": "Potential malicious damage to building materials and finishes, in public and common areas where\nappropriate.\nProtecting exposed parts of the building from material degradation"
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "Key exposed building elements have been designed and specified to limit long and short term degradation\ndue to environmental factors. This can be demonstrated through one of the following:"
           },
           {
             "id": "2.a",
-            "group": "One credit",
+            "group": null,
             "text": "The element or product achieving an appropriate quality or durability standard or design guide, see\nTable 9.14 on the next page. If none are available, use BS 7543:2015(171) as the default\nappropriate standard\nOR"
           },
           {
             "id": "2.b",
-            "group": "One credit",
+            "group": null,
             "text": "A detailed assessment of the element's resilience when exposed to the applicable material\ndegradation and environmental factors."
           },
           {
             "id": "3",
-            "group": "One credit",
+            "group": null,
             "text": "Include convenient access to the roof and façade for cost-effective cleaning, replacement and repair in the\nbuilding's design."
           },
           {
             "id": "4",
-            "group": "One credit",
+            "group": null,
             "text": "Design the roof and façade to prevent water damage, ingress and detrimental ponding.\nTable 9.14 on the next page is a list of relevant industry durability and quality standards than can be used to\nachieve compliance."
           }
         ]
@@ -2189,57 +2189,57 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "At the Preparation and Brief and Concept Design stages, set targets and report on opportunities and\nmethods to optimise the use of materials. These must be done for each of the following stages. See Table\n9.15 below:"
           },
           {
             "id": "1.a",
-            "group": "One credit",
+            "group": null,
             "text": "Preparation and Brief"
           },
           {
             "id": "1.b",
-            "group": "One credit",
+            "group": null,
             "text": "Concept Design"
           },
           {
             "id": "1.c",
-            "group": "One credit",
+            "group": null,
             "text": "Developed Design"
           },
           {
             "id": "1.d",
-            "group": "One credit",
+            "group": null,
             "text": "Technical Design"
           },
           {
             "id": "1.e",
-            "group": "One credit",
+            "group": null,
             "text": "Construction."
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "Develop and record the implementation of material efficiency, see Table 9.15 below, during:"
           },
           {
             "id": "2.a",
-            "group": "One credit",
+            "group": null,
             "text": "Developed Design"
           },
           {
             "id": "2.b",
-            "group": "One credit",
+            "group": null,
             "text": "Technical Design"
           },
           {
             "id": "2.c",
-            "group": "One credit",
+            "group": null,
             "text": "Construction."
           },
           {
             "id": "3",
-            "group": "One credit",
+            "group": null,
             "text": "Report the targets and actual material efficiencies achieved."
           }
         ]

@@ -948,27 +948,27 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "No external lighting (which includes lighting on the building, at entrances and signs).\nOR"
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "External light fittings within the construction zone with:"
           },
           {
             "id": "2.a",
-            "group": "One credit",
+            "group": null,
             "text": "Average initial luminous efficacy of not less than 70 luminaire lumens per circuit Watt"
           },
           {
             "id": "2.b",
-            "group": "One credit",
+            "group": null,
             "text": "Automatic control to prevent operation during daylight hours"
           },
           {
             "id": "2.c",
-            "group": "One credit",
+            "group": null,
             "text": "Presence detection in areas of intermittent pedestrian traffic."
           }
         ]
@@ -1771,31 +1771,31 @@
           {
             "id": "2",
             "group": "Up to two credits – Energy efficient features",
-            "text": "Achieve criterion 1 above."
+            "text": "Achieve criterion 1 above.\nOne credit - Lifts"
           },
           {
             "id": "3",
-            "group": "One credit - Lifts",
+            "group": "Up to two credits – Energy efficient features",
             "text": "Specify the following three energy efficient features for each lift:"
           },
           {
             "id": "3.a",
-            "group": "One credit - Lifts",
+            "group": "Up to two credits – Energy efficient features",
             "text": "A standby condition for off-peak periods"
           },
           {
             "id": "3.b",
-            "group": "One credit - Lifts",
+            "group": "Up to two credits – Energy efficient features",
             "text": "The lift car lighting and display lighting provides an average luminous efficacy across all fittings in\nthe car of > 70 luminaire lumens per circuit Watt"
           },
           {
             "id": "3.c",
-            "group": "One credit - Lifts",
+            "group": "Up to two credits – Energy efficient features",
             "text": "Use of a drive controller capable of variable speed, variable-voltage, and variable-frequency (VVVF)\ncontrol of the drive motor."
           },
           {
             "id": "4",
-            "group": "One credit - Lifts",
+            "group": "Up to two credits – Energy efficient features",
             "text": "Specify regenerative drives where their use is demonstrated to save energy."
           },
           {
@@ -2082,21 +2082,21 @@
           {
             "id": "6.a",
             "group": "Up to four credits – Best practice energy efficient measures",
-            "text": "than 25%) of the total building floor area OR"
+            "text": "Up to 2 credits: laboratory areas (see Definitions on page 191) account for at least 10% (but less\nthan 25%) of the total building floor area OR"
           },
           {
             "id": "6.b",
-            "group": "Up to 2 credits: laboratory areas (see Definitions on page 191) account for at least 10% (but less",
-            "text": ""
+            "group": "Up to four credits – Best practice energy efficient measures",
+            "text": "Up to 4 credits: laboratory areas account for 25% or more of the total building floor area."
           },
           {
             "id": "7",
-            "group": "Up to 4 credits: laboratory areas account for 25% or more of the total building floor area.",
+            "group": "Up to four credits – Best practice energy efficient measures",
             "text": "Demonstrate by calculations or modelling that the chosen measures have a reasonably significant effect\non the total energy consumption of the laboratory, i.e. 2% reduction or greater."
           },
           {
             "id": "8",
-            "group": "Up to 4 credits: laboratory areas account for 25% or more of the total building floor area.",
+            "group": "Up to four credits – Best practice energy efficient measures",
             "text": "Demonstrate that the energy efficient measures specified do not compromise the defined performance\ncriteria, and do not increase the health and safety risk to future building occupants.\nTable 6.6 Best practice energy efficient measures in laboratories\n[TABLE L48_T1]"
           }
         ]
@@ -2466,17 +2466,17 @@
         "criteria": [
           {
             "id": "1",
-            "group": "Two credits",
+            "group": null,
             "text": "Identify the building's unregulated energy consuming loads. Estimate their contribution to the total annual\nunregulated energy consumption of the building, assuming a typical or standard specification."
           },
           {
             "id": "2",
-            "group": "Two credits",
+            "group": null,
             "text": "Identify the systems or processes that use a significant proportion of the total annual unregulated energy\nconsumption of the building."
           },
           {
             "id": "3",
-            "group": "Two credits",
+            "group": null,
             "text": "Demonstrate a meaningful reduction in the total annual unregulated energy consumption of the building.\nTable 6.7 below lists some examples of significant contributors to unregulated energy consumption, and\nthe associated criteria. If other significant contributors, not listed in the table, will be specified, the design\nteam should justify how a meaningful reduction will be achieved for these contributors.\nTable 6.7 Significant contributors to unregulated energy consumption, for a number of different building types\nor functions, and the solutions deemed to comply\n[TABLE L53_T2]\nSignificant contributors\nfollow the updated energy labels introduced in March 2021 (see KBCN1445).\nHealthcare\nThe procurement of large-scale equipment and sets of electrical equipment (where numbering more than\n50) has been informed and selected by life cycle costing analysis for at least two options in accordance\nwith HTM07-02, Part B, Chapter 1. 'Large-scale equipment' includes commercial-scale catering and\nlaundry equipment and all other equipment with connected electrical loads in excess of 10kW rated input\npower.\nKitchen and catering facilities\nIncorporate at least two-thirds of the energy efficiency measures outlined in the 'section summary' boxes\nof each of the following sections of CIBSE Guide TM50(146) (except as specified):\n1.\nSection 8 – Controls and sub-metering\n2.\nSection 9 – Drainage and kitchen waste removal\n3.\nSection 10 – Water services\n4.\nSection 13 – Foodservice equipment specification\n5.\nSection 14 – Commercial foodservice refrigeration equipment\n6.\nSection 15 – Warewashing: dishwashing, glasswashing and potwashing\n7.\nSection 16 – Cooking, hot food holding and display equipment\nRefrigeration (see Refrigeration equipment below) for kitchen and catering facilities should be assessed\nhere, not in Ene 05 Energy efficient cold storage on page 179."
           }
         ]

@@ -220,7 +220,13 @@ def group_into_credits(pages):
 
 # ---------------------------------------------------------- section parsing
 INLINE_CRIT_RE = re.compile(r'^(\d+(?:\.[a-z](?:\.[ivx]+)?)?)(?:$|\s+(?=[A-Z]))')
-GROUP_RE = re.compile(r'^(Prerequisite\b.*|(?:One|Two|Three|Four|Five|Six|Up to \w+) credits?\b.*|\d+ credits?\b.*)$')
+# A GROUP heading names its credits then a title after an en dash
+# ('One credit – Design specification'). Criterion body text can *also*
+# start with '<N> credits' (e.g. '6.a Up to 2 credits: laboratory areas
+# account for...') -- the en dash is what tells the two apart.
+GROUP_RE = re.compile(
+    r'^(Prerequisite\b.*|(?:One|Two|Three|Four|Five|Six|Up to \w+) credits?\s+–\s+.*|\d+ credits?\s+–\s+.*)$'
+)
 ROMAN_SEQUENCE = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"]
 
 

@@ -1472,16 +1472,16 @@
           {
             "id": "2.e.ii",
             "group": "One credit – Ventilation",
-            "text": "CIBSE AM13(48) (for mixed-mode buildings)"
+            "text": "CIBSE AM13(48) (for mixed-mode buildings)\nOne credit"
           },
           {
             "id": "3",
-            "group": "One credit",
-            "text": "Three of the five product types meet the emission limits, testing requirements and any additional\nrequirements listed in Table 5.11 below. Where wood-based products are not one of three selected\nproduct types, all wood-based products used for internal fixtures and fittings must be tested and classified\nas formaldehyde E1 class as a minimum."
+            "group": "Up to two credits – Emissions from construction products",
+            "text": "Three of the five product types meet the emission limits, testing requirements and any additional\nrequirements listed in Table 5.11 below. Where wood-based products are not one of three selected\nproduct types, all wood-based products used for internal fixtures and fittings must be tested and classified\nas formaldehyde E1 class as a minimum.\nTwo credits"
           },
           {
             "id": "4",
-            "group": "Two credits",
+            "group": "Up to two credits – Emissions from construction products",
             "text": "All the product types listed meet the emission limits, testing requirements and any additional requirements\nlisted in Table 5.11 below.\nTable 5.11 Emission criteria by product type\n[TABLE L22_T1]"
           },
           {
@@ -1512,16 +1512,16 @@
           {
             "id": "10",
             "group": "One credit – Post-construction indoor air quality measurement",
-            "text": "The measured concentration levels of formaldehyde (µg/m³) and TVOC (µg/m³) are reported, via the\nBREEAM Scoring and Reporting Tool.\nExemplary level criteria\nMinimising sources of air pollution – Emissions from construction products\nTo achieve one exemplary performance credit:"
+            "text": "The measured concentration levels of formaldehyde (µg/m³) and TVOC (µg/m³) are reported, via the\nBREEAM Scoring and Reporting Tool.\nExemplary level criteria\nMinimising sources of air pollution – Emissions from construction products\nTo achieve one exemplary performance credit:\nOne credit"
           },
           {
             "id": "11",
-            "group": "One credit",
+            "group": "One credit – Post-construction indoor air quality measurement",
             "text": "Achieve criterion 4."
           },
           {
             "id": "12",
-            "group": "One credit",
+            "group": "One credit – Post-construction indoor air quality measurement",
             "text": "Three of the product types listed meet the emission limits, testing requirements and any additional\nrequirements listed in Table 5.12 below. Where wood-based products are not one of the three selected\nproduct types, all wood-based products used for internal fixtures and fittings must be tested and classified\nas formaldehyde E1 class as a minimum.\nTable 5.12 Exemplary level emission criteria by product type\n[TABLE L24_T1]"
           }
         ]

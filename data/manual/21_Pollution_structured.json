@@ -76,21 +76,21 @@
           {
             "id": "2",
             "group": "Prerequisite",
-            "text": "All systems with electric compressors comply with the requirements of BS EN 378-2:2016(213) and BS EN\n378-3:2016+A1:2020(214). Refrigeration systems containing ammonia comply with the Institute of\nRefrigeration Ammonia Refrigeration Systems code of practice(215).\nImpact of refrigerant"
+            "text": "All systems with electric compressors comply with the requirements of BS EN 378-2:2016(213) and BS EN\n378-3:2016+A1:2020(214). Refrigeration systems containing ammonia comply with the Institute of\nRefrigeration Ammonia Refrigeration Systems code of practice(215).\nImpact of refrigerant\nTwo credits"
           },
           {
             "id": "3",
-            "group": "Two credits",
+            "group": "Prerequisite",
             "text": "The direct effect life cycle CO₂ equivalent emissions (DELC) of ≤100 CO₂-eq/kW. For systems which\nprovide cooling and heating, the worst performing output based on the lower of kW cooling output and\nkW heating output is used to complete the calculation. To calculate the DELC, refer to the relevant\ndefinitions in Methodology on the next page and Additional information on page 360.\nOR"
           },
           {
             "id": "4",
-            "group": "Two credits",
-            "text": "All refrigerants used have a global warming potential (GWP) ≤10.\nOR"
+            "group": "Prerequisite",
+            "text": "All refrigerants used have a global warming potential (GWP) ≤10.\nOR\nOne credit"
           },
           {
             "id": "5",
-            "group": "One credit",
+            "group": "Prerequisite",
             "text": "Systems using refrigerants have a DELC of ≤1000kgCO₂-eq/kW cooling and heating capacity."
           },
           {
@@ -516,12 +516,12 @@
         "criteria": [
           {
             "id": "1",
-            "group": "Up to two credits",
+            "group": null,
             "text": "All heating and hot water is supplied by non-combustion systems. For example, only powered by\nelectricity.\nOR alternatively;"
           },
           {
             "id": "2",
-            "group": "Up to two credits",
+            "group": null,
             "text": "Emissions from all installed combustion plant that provide space heating and domestic hot water do not\nexceed the levels set in Table 12.4 and Table 12.5 on the next page.\nTable 12.4 Maximum NOₓ emission levels by appliance type, fuel and location\n[TABLE L11_T2]\nTable 12.5 Maximum particulate matter and volatile organic compound emissions for appliances using\nbiomass, solid fuel and wood pellets\n[TABLE L12_T1]"
           }
         ]
@@ -1047,21 +1047,21 @@
           {
             "id": "24",
             "group": "One credit – Minimising watercourse pollution",
-            "text": "All external storage and delivery areas are designed and detailed in accordance with the current best\npractice planning guidance.\nFor 'simple buildings', the criteria below should be applied to award one or two credits. Alternatively, two\ncredits and an Exemplary credit is awarded where criteria 5–16 on the previous page are achieved."
+            "text": "All external storage and delivery areas are designed and detailed in accordance with the current best\npractice planning guidance.\nTwo credits\nFor 'simple buildings', the criteria below should be applied to award one or two credits. Alternatively, two\ncredits and an Exemplary credit is awarded where criteria 5–16 on the previous page are achieved."
           },
           {
             "id": "25",
-            "group": "Two credits",
+            "group": "Up to two credits – Simple buildings – Surface water run-off",
             "text": "Either 25.a below or 25.b below is met:"
           },
           {
             "id": "25.a",
-            "group": "Two credits",
+            "group": "Up to two credits – Simple buildings – Surface water run-off",
             "text": "There is a decrease in the impermeable area by 50% or more, from the pre-existing impermeable\nhard surfaces."
           },
           {
             "id": "25.b",
-            "group": "Two credits",
+            "group": "Up to two credits – Simple buildings – Surface water run-off",
             "text": "All run-off from the roof, including new and existing parts of the building, has been managed on\nsite using source control methods. This must be achieved for rainfall depths up to 5mm.\nOR"
           },
           {
@@ -1390,27 +1390,27 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "External lighting pollution has been eliminated through effective design that removes the need for\nexternal lighting. This does not adversely affect the safety and security of the site and its users.\nOR alternatively, where the building does have external lighting, one credit can be awarded as follows:"
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "The external lighting strategy has been designed in compliance with Table 2 (and its accompanying notes)\nof the Institution of Lighting Professionals (ILP) Guidance notes for the reduction of obtrusive light, 2011\n(228)."
           },
           {
             "id": "3",
-            "group": "One credit",
+            "group": null,
             "text": "All external lighting (except for safety and security lighting) can be automatically switched off between\n23:00 and 07:00."
           },
           {
             "id": "4",
-            "group": "One credit",
+            "group": null,
             "text": "If safety or security lighting is provided and will be used between 23:00 and 07:00, this part of the lighting\nsystem complies with the lower levels of lighting recommended during these hours in Table 2 of the ILP\nguidance notes."
           },
           {
             "id": "5",
-            "group": "One credit",
+            "group": null,
             "text": "Illuminated advertisements are designed in compliance with ILP PLG05 The Brightness of Illuminated\nAdvertisements(229)."
           }
         ]
@@ -1604,47 +1604,47 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "There are no noise-sensitive areas within the assessed building or within 800 m radius of the assessed site.\nOR"
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "Where there are noise-sensitive areas within the assessed building or noise-sensitive areas within 800 m\nradius of the assessed site, a noise impact assessment compliant with BS 4142:2014(230) is commissioned.\nNoise levels must be measured or determined for:"
           },
           {
             "id": "2.a",
-            "group": "One credit",
+            "group": null,
             "text": "Existing background noise levels:"
           },
           {
             "id": "2.a.i",
-            "group": "One credit",
+            "group": null,
             "text": "at the nearest or most exposed noise-sensitive development to the proposed assessed site"
           },
           {
             "id": "2.a.ii",
-            "group": "One credit",
+            "group": null,
             "text": "including existing plant on a building, where the assessed development is an extension to the\nbuilding"
           },
           {
             "id": "2.b",
-            "group": "One credit",
+            "group": null,
             "text": "Noise rating level from the assessed building."
           },
           {
             "id": "3",
-            "group": "One credit",
+            "group": null,
             "text": "The noise impact assessment must be carried out by a suitably qualified acoustic consultant."
           },
           {
             "id": "4",
-            "group": "One credit",
+            "group": null,
             "text": "The noise level from the assessed building, as measured in the locality of the nearest or most exposed\nnoise-sensitive development, must be at least 5 dB lower than the background noise throughout the day\nand night."
           },
           {
             "id": "5",
-            "group": "One credit",
+            "group": null,
             "text": "If the noise sources from the assessed building are greater than the levels described in criterion 4,\nmeasures have been installed to attenuate the noise at its source to a level where it will comply with the\ncriterion."
           }
         ]

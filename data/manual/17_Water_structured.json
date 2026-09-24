@@ -69,52 +69,52 @@
         "criteria": [
           {
             "id": "1",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Use the BREEAM Wat 01 calculator to assess the efficiency of the domestic water-consuming components."
           },
           {
             "id": "2",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Use the standard Wat 01 method (see Methodology on the next page) to compare the water consumption\n(litres/person/day) for the assessed building against a baseline performance. Award BREEAM credits based\nupon Table 8.1 below. Where it is not possible to use the standard method, complete the assessment\nusing the alternative Wat 01 method (see Methodology on the next page).\nTable 8.1 BREEAM credits available for percentage improvement over baseline building water consumption\n[TABLE L3_T3]"
           },
           {
             "id": "3",
-            "group": "Up to five credits",
+            "group": null,
             "text": "If a greywater or rainwater system (see Definitions on page 231) is specified, use its yield in L/person/day to\noffset potable water demand from components."
           },
           {
             "id": "4",
-            "group": "Up to five credits",
+            "group": null,
             "text": "If a greywater or rainwater system is specified and installed:"
           },
           {
             "id": "4.a",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Greywater systems in compliance with BS 8525-1:2010 Greywater systems - Part 1 Code of Practice\n(156)."
           },
           {
             "id": "4.b",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Rainwater systems in compliance with BS EN 16941-1:2018(157).\nAchieve - Criterion 6 on page 236, if you intend to carry out a post occupancy evaluation.\nAdditionally for Healthcare building types only:"
           },
           {
             "id": "5",
-            "group": "Up to five credits",
+            "group": null,
             "text": "If applicable, the flushing control for each WC or urinal must be suitable for operation by patients with frail\nor infirm hands or activated by electronic sensors (see 2.0 on the previous page).\nAdditionally for Prison building types only:"
           },
           {
             "id": "6",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Sanitary components specified within a prison cell have a volume controller specified on the individual\nfittings or water supply to each cell (see Definitions on page 231).\nExemplary level criteria\nTo achieve an exemplary performance credit:"
           },
           {
             "id": "7",
-            "group": "Up to five credits",
+            "group": null,
             "text": "Achieve criteria 1 to 4 above (and if applicable 5 or 6 above)."
           },
           {
             "id": "8",
-            "group": "Up to five credits",
+            "group": null,
             "text": "The water consumption (litres/person/day) for the assessed building achieves the 65% improvement\ndescribed as exemplary performance in Table 8.1 on the previous page."
           }
         ]
@@ -698,52 +698,52 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "Specify a water meter on the mains water supply to each building. This includes instances where water is\nsupplied via a borehole or other private source."
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "For water-consuming plant or building areas consuming 10% or more of the building’s total water\ndemand:"
           },
           {
             "id": "2.a",
-            "group": "One credit",
+            "group": null,
             "text": "Fit easily accessible sub-meters OR"
           },
           {
             "id": "2.b",
-            "group": "One credit",
+            "group": null,
             "text": "Install water monitoring equipment integral to the plant or area."
           },
           {
             "id": "3",
-            "group": "One credit",
+            "group": null,
             "text": "For each meter (main and sub):"
           },
           {
             "id": "3.a",
-            "group": "One credit",
+            "group": null,
             "text": "Install a pulsed or other open protocol communication output AND"
           },
           {
             "id": "3.b",
-            "group": "One credit",
+            "group": null,
             "text": "Connect it to an appropriate utility monitoring and management system, e.g. a building\nmanagement system (BMS), for the monitoring of water consumption. If there is no BMS system in\noperation at post-construction stage, award credits provided that the system used enables\nconnection when the BMS becomes operational."
           },
           {
             "id": "4",
-            "group": "One credit",
+            "group": null,
             "text": "In buildings with swimming pools, or large water tanks and aquariums, fit separate sub-meters on the\nwater supply of the above and any associated changing facilities (toilets, showers etc.) irrespective of their\nwater consumption levels."
           },
           {
             "id": "5",
-            "group": "One credit",
+            "group": null,
             "text": "In buildings containing laboratories, fit a separate water meter on the water supply to any process or\ncooling loop for ‘plumbed-in’ laboratory process equipment, irrespective of their water consumption\nlevels.\nAdditionally, for those carrying out a post occupancy evaluation:"
           },
           {
             "id": "6",
-            "group": "One credit",
+            "group": null,
             "text": "The water monitoring strategy used enables the identification of all water consumption for sanitary uses as\nassessed under Wat 01 (litres/person/day)."
           }
         ]
@@ -1171,12 +1171,12 @@
         "criteria": [
           {
             "id": "1",
-            "group": "One credit",
+            "group": null,
             "text": "Identify all water demands from uses other than those listed under - Calculation of water efficiency\nperformance on page 225 that could be realistically mitigated or reduced. Where there is no water\ndemand from uses other than domestic-scale, sanitary use components in the building, this issue is not\napplicable."
           },
           {
             "id": "2",
-            "group": "One credit",
+            "group": null,
             "text": "Identify systems or processes to reduce the relevant water demand (criterion 1 above), and establish,\nthrough either good practice design or specification, a demonstrable reduction in the total water demand\nof the building."
           }
         ]
