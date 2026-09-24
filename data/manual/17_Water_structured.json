@@ -1,0 +1,1327 @@
+[
+  {
+    "code": null,
+    "title": "Water",
+    "manual_pages": [
+      222,
+      222
+    ],
+    "raw_text": "7%\n7.5%\n7%\n2%\nFully fitted\nSimple building\nShell & core\nShell only\nSummary\nThis category encourages sustainable water use in the operation of the building and its site. Issues in this\nsection focus on identifying means of reducing potable water consumption (internal and external) over the\nlifetime of the building and minimising losses through leakage.\nAssessment timeline\nTo assist with optimising project sustainability performance, the assessment timeline outlines the stage at\nwhich credits should be addressed. Ideally these should be considered by the design team, planner,\ncontractors, owners, occupiers and other members of the project team to achieve the highest possible\nBREEAM rating at the minimum cost.\nIf BREEAM advice is taken on too late within the design and construction phases a number of BREEAM credits\nmay not be achieved or only at additional cost or disruption.\nAssessment issues\nWat 01 Water consumption\n5 credits\n– Reducing the demand for potable water through the provision of efficient sanitary fittings, rainwater\ncollection and water recycling systems.\nWat 02 Water monitoring\n1 credit\n– Specification of water meters to allow for management and monitoring of water use in the building. This\nencourages reductions in water use by identifying areas of high usage and investigating potential causes.\nWat 03 Water leak detection\n2 credits\n– Reducing the unintended water consumption due to leaks by installing leak detection systems and flow\ncontrol devices.\nWat 04 Water efficient equipment\n1 credit\n– Reducing water consumption for non-domestic scale, non-sanitary water uses by specifying efficient\nsystems and improving the design efficiency of any water-using processes.",
+    "normalized_text": "7%\n7.5%\n7%\n2%\nFully fitted\nSimple building\nShell & core\nShell only\nSummary\nThis category encourages sustainable water use in the operation of the building and its site. Issues in this\nsection focus on identifying means of reducing potable water consumption (internal and external) over the\nlifetime of the building and minimising losses through leakage.\nAssessment timeline\nTo assist with optimising project sustainability performance, the assessment timeline outlines the stage at\nwhich credits should be addressed. Ideally these should be considered by the design team, planner,\ncontractors, owners, occupiers and other members of the project team to achieve the highest possible\nBREEAM rating at the minimum cost.\nIf BREEAM advice is taken on too late within the design and construction phases a number of BREEAM credits\nmay not be achieved or only at additional cost or disruption.\nAssessment issues\nWat 01 Water consumption\n5 credits\n– Reducing the demand for potable water through the provision of efficient sanitary fittings, rainwater\ncollection and water recycling systems.\nWat 02 Water monitoring\n1 credit\n– Specification of water meters to allow for management and monitoring of water use in the building. This\nencourages reductions in water use by identifying areas of high usage and investigating potential causes.\nWat 03 Water leak detection\n2 credits\n– Reducing the unintended water consumption due to leaks by installing leak detection systems and flow\ncontrol devices.\nWat 04 Water efficient equipment\n1 credit\n– Reducing water consumption for non-domestic scale, non-sanitary water uses by specifying efficient\nsystems and improving the design efficiency of any water-using processes.",
+    "subsections": [
+      {
+        "heading": null,
+        "text": "7%\n7.5%\n7%\n2%\nFully fitted\nSimple building\nShell & core\nShell only\nSummary\nThis category encourages sustainable water use in the operation of the building and its site. Issues in this\nsection focus on identifying means of reducing potable water consumption (internal and external) over the\nlifetime of the building and minimising losses through leakage.\nAssessment timeline\nTo assist with optimising project sustainability performance, the assessment timeline outlines the stage at\nwhich credits should be addressed. Ideally these should be considered by the design team, planner,\ncontractors, owners, occupiers and other members of the project team to achieve the highest possible\nBREEAM rating at the minimum cost.\nIf BREEAM advice is taken on too late within the design and construction phases a number of BREEAM credits\nmay not be achieved or only at additional cost or disruption.\nAssessment issues\nWat 01 Water consumption\n5 credits\n– Reducing the demand for potable water through the provision of efficient sanitary fittings, rainwater\ncollection and water recycling systems.\nWat 02 Water monitoring\n1 credit\n– Specification of water meters to allow for management and monitoring of water use in the building. This\nencourages reductions in water use by identifying areas of high usage and investigating potential causes.\nWat 03 Water leak detection\n2 credits\n– Reducing the unintended water consumption due to leaks by installing leak detection systems and flow\ncontrol devices.\nWat 04 Water efficient equipment\n1 credit\n– Reducing water consumption for non-domestic scale, non-sanitary water uses by specifying efficient\nsystems and improving the design efficiency of any water-using processes.",
+        "criteria": []
+      }
+    ],
+    "tables": [],
+    "xrefs": [
+      "Wat 01 Water consumption",
+      "Wat 02 Water monitoring",
+      "Wat 03 Water leak detection",
+      "Wat 04 Water efficient equipment"
+    ]
+  },
+  {
+    "code": "Wat01",
+    "title": "Water consumption",
+    "manual_pages": [
+      223,
+      233
+    ],
+    "raw_text": "5\n5\n5\nNot applicable\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards\nAim\nTo reduce the consumption of potable water for sanitary use in new buildings through the use of water\nefficient components and water recycling systems.\nValue\n– Improving water efficiency and reducing cost related to water consumption in use.\n– Reducing potable water use so helping to conserve stretched water reserves at times of shortage.\n– Reducing water industry greenhouse gas emissions, pollution impacts and associated costs on a national\nlevel.\nContext\nIn England(152) the average person uses about 150 litres of water a day for a range of uses including\nsanitation, where significant savings are possible. Given that climate projections forecast half as much rainfall\nin summer in the South East of England by 2080, it is important to build water efficiency in to our building\nstock and minimise the need for major infrastructure enhancements to meet these pressures as well as\ngrowing demands. Under these scenarios and with the expected high population growth, unless adaptation\ninterventions are made, deficits are expected to be already widespread by the 2050s. The UK is expected to be\nin deficit by up to 16% of the total water demand in the 2050s and of up to 29% in the 2080s leading to\nmajor impacts on cost and resource levels(153).\nAssessment scope\n[TABLE L2_T1]\nSpecific notes\n[TABLE L2_T2]\n[TABLE L3_T2]\nAssessment criteria\nUp to five credits\n1\nUse the BREEAM Wat 01 calculator to assess the efficiency of the domestic water-consuming components.\n2\nUse the standard Wat 01 method (see Methodology on the next page) to compare the water consumption\n(litres/person/day) for the assessed building against a baseline performance. Award BREEAM credits based\nupon Table 8.1 below. Where it is not possible to use the standard method, complete the assessment\nusing the alternative Wat 01 method (see Methodology on the next page).\nTable 8.1 BREEAM credits available for percentage improvement over baseline building water consumption\n[TABLE L3_T3]\n3\nIf a greywater or rainwater system (see Definitions on page 231) is specified, use its yield in L/person/day to\noffset potable water demand from components.\n4\nIf a greywater or rainwater system is specified and installed:\n4.a\nGreywater systems in compliance with BS 8525-1:2010 Greywater systems - Part 1 Code of Practice\n(156).\n4.b\nRainwater systems in compliance with BS EN 16941-1:2018(157).\nAchieve - Criterion 6 on page 236, if you intend to carry out a post occupancy evaluation.\nAdditionally for Healthcare building types only:\n5\nIf applicable, the flushing control for each WC or urinal must be suitable for operation by patients with frail\nor infirm hands or activated by electronic sensors (see 2.0 on the previous page).\nAdditionally for Prison building types only:\n6\nSanitary components specified within a prison cell have a volume controller specified on the individual\nfittings or water supply to each cell (see Definitions on page 231).\nExemplary level criteria\nTo achieve an exemplary performance credit:\n7\nAchieve criteria 1 to 4 above (and if applicable 5 or 6 above).\n8\nThe water consumption (litres/person/day) for the assessed building achieves the 65% improvement\ndescribed as exemplary performance in Table 8.1 on the previous page.\nMethodology\nCalculation of water efficiency performance\nA non-domestic building’s water efficient performance is determined using the BREEAM Wat 01 calculator.\nInclude the efficiency of the following domestic-scale water-consuming components (where specified):\n– WCs\n– Urinals\n– Taps (wash-hand basins and, where specified, kitchen taps and waste disposal unit)\n– Showers\n– Baths\n– Dishwashers (domestic and commercial-sized)\n– Washing machines (domestic and commercial or industrial sized).\nThe BREEAM Wat 01 calculator defines the building types and activity areas for which the above components\nmust be assessed.\nUse one of the following methods to determine the building's water efficient performance:\n– Standard approach for common building types\nOR\n– Alternative method for other building types\nEach method is summarised below.\nStandard Wat 01 method\nThis method uses the building's actual component specification and default usage patterns for the building\ntype and its activity areas to determine water efficiency (measured in litres/person/day and m³/person/yr) for a\nbuilding. The modelled output is compared with the output for a baseline component specification and the\nwater demand saving determined as a percentage improvement. The percentage improvement determines the\nnumber of BREEAM credits achieved, see Table 8.1 on the previous page.\nThe baseline component specification is equivalent to the water efficiency of industry standard components\n(see Table 8.3 on the next page), steered by the minimum levels required by the Water Supply (Water Fittings)\nRegulations(158) and Part G of the Building Regulations(159). The BREEAM percentage improvement\nbenchmarks are based on progressively more efficient standards and product market availability for water-\nconsuming components. For the higher levels of performance, the specification of greywater and rainwater\nsystems is required.\nThe standard approach is the default method for calculating the water efficiency of the assessed building. It is\nused for most of the common building types, where usage data are available. For building types where usage\ndata are not available, the standard approach cannot be used. An alternative approach to compliance\ndescribed below must be used instead. Refer to the BREEAM Wat 01 calculator for the building types which\ncan currently be assessed using the standard approach.\nAlternative Wat 01 method\nWhere the standard approach cannot be used to determine the building's water consumption\n(litres/person/day), the assessment is completed on an elemental basis, as follows:\n1.\nUse the list of applicable water-consuming components and determine those that are specified or\npresent in the assessed building.\n2.\nUse the actual specification for each component type to complete the 'Other building type calculator'\nworksheet of the BREEAM Wat 01 calculator. Table 8.3 on the next page defines the levels of\nperformance for each component type. The volumes quoted are maximum values for each level but\nthe greywater or rainwater system % is a minimum for the '% of WC or urinal flushing demand met\nusing recycled non-potable water’.\n3.\nWeightings applied in the calculator are:\na.\nbuilding type specific weightings to each component level to reflect its ‘in-use’ consumption relative\nto the other components present. A component with high ‘in-use’ water consumption has a higher\nweighting than one with lower ‘in-use’ consumption and therefore makes a relatively larger\ncontribution to the building’s overall level of performance.\nb.\nderived from data on actual water consumption per day from non-domestic buildings, sourced from\nBNWAT22(160). These are in the BREEAM Wat 01 calculator.\n4.\nBased upon the performance level of each component type and the component weighting, the\ncalculator determines an overall level of performance and awards the relevant number of BREEAM\ncredits, see Table 8.2 below:\nTable 8.2 BREEAM credits based on overall performance level\n[TABLE L5_T1]\n1.\nAn exemplary performance credit is awarded where the component specification achieves level 5 and\n> 95% of WC or urinal flushing demand is met using recycled non-potable water.\n2.\nAchieving a specific overall component level does not necessarily mean that an equivalent number of\ncredits is awarded. The levels are not directly linked to the improvement percentages and the\ngreywater and rainwater levels achieved also have an influence.\n3.\nDue to the use of the weightings, the overall component level achieved is not necessarily a whole\nnumber. Where this is the case, the methodology always rounds down to the nearest component level\nand therefore BREEAM credits level, e.g. if the component specification achieved is 3.6 credits, the\nactual number of credits awarded is 3 credits (the methodology does not round up to 4 credits because\nthe performance specification for 4 credits has not been achieved).\n4.\nWhere the assessed building development has multiple specifications for the same water-consuming\ncomponent type, the number of fittings and component level achieved for each specification is\nentered in the 'Other building type calculator'. Using this information, the calculator determines the\nbuilding’s aggregated performance level for that component type.\nWhile attempts have been made to align the benchmarking of both the standard and alternative\nmethodologies, performance is determined in different ways. The number of BREEAM credits awarded by each\nmethod could differ for the same water component specification. This could lead to variation in the credits\nachieved when applying BREEAM New Construction to a number of different building types that form a part of\nthe same overall development.\nComponent type\nTable 8.3 outlines the consumption performance levels, by component type, used in BREEAM. These levels of\nefficiency have been steered by a range of published sources of information(161) and reflect robust levels of\ntypical, good, best and exemplary practice.\nTable 8.3 Water efficient consumption levels by component type\n[TABLE L6_T1]\nSpecifying components for a building in accordance with the above levels might result in the corresponding\nnumber of BREEAM credits being achieved. However, the component specifications above are akin to\nthresholds between each level. Therefore caution should be exercised when defining a component\nspecification for a BREEAM-assessed building using exactly the same levels as the threshold levels. It is\nrecommended that, where Wat 01 credits are targeted, the performance of a particular building’s component\nspecification is verified using the BREEAM Wat 01 calculator before committing to a particular specification\nand ordering or installing components. This will provide greater assurance that the component specification\nachieves the targeted number of BREEAM credits.\nWater-consuming components – data requirements\nFor each component type, the appropriate data will need to be collected from manufacturers’ product\ninformation to complete the assessment.\nTable 8.4 Data requirements for each domestic component type\n[TABLE L7_T2]\nUnspecified water-consuming components\nThe methodology for awarding credits for water efficiency compares the building's modelled water\nconsumption performance against the performance of a baseline specification for the same component types.\nTherefore, where a component type is not specified it is not accounted for in the methodology, i.e. the\ncomponent is excluded from both the proposed and baseline building. No benefit is gained in terms of\nBREEAM performance, by deciding not to specify a particular component. However, the methodology will\nreflect the reduction in overall water consumption (litres/person/day) for the building, as a result of not\nspecifying a particular component.\nBuildings with greywater or rainwater systems\nThe following information is required where a greywater or rainwater system is specified:\nRainwater: in accordance with BS EN 16941-1:2018(163) ‘basic approach’:\n1.\nHorizontal projection of the collection area (m²)\n2.\nSurface yield co-efficient (%)\n3.\nHydraulic treatment efficiency co-efficient (%)\n4.\nAnnual rainfall (mm/year).\nRainwater: in accordance with BS EN 16941-1:2018 ‘detailed approach’:\n1.\nDaily rainfall collection (litres).\nGreywater: in accordance with BS 8525-1(164):\n1.\nManufacturer or system designer details\n2.\nThe percentage volume of waste water collected (and reused) from the following (where relevant):\nwash-hand basins, showers, kitchen basins, dishwashers, baths, washing machines and sources of\nwaste water from non-domestic components.\nWhere greywater or rainwater systems are specified, a minimum level of component efficiency must be\nachieved to award 4 or 5 BREEAM credits and the exemplary level credit. This is to avoid awarding a higher\nnumber of BREEAM credits where performance from less efficient fittings is offset by the specification of a\ngreywater or rainwater collection system.\nThe intention behind this, is to ensure demand reduction is prioritised before offsetting consumption. Where a\ngreywater or rainwater system is specified or installed, the component specification must achieve at least a\n25% percentage reduction in water consumption (over the baseline specification) equivalent to 2 credits.\nWhere this level is achieved, the total water demand met by greywater or rainwater sources can contribute to\nthe overall percentage improvement required to achieve BREEAM credits. If this minimum is not achieved, the\npercentage of greywater or rainwater allowable will be equivalent to the percentage improvement in water\nconsumption achieved for the component specification, i.e. percentage improvement on baseline\nperformance.\nFor example, if a 20% improvement only is achieved, and therefore the building does not meet the 25%\nrequirement, only 20% of the water demand met via greywater or rainwater sources can be used to offset\nwater consumption from the micro-components. This minimum requirement does not apply where only 1, 2 or\n3 credits are sought or where no greywater or rainwater system is specified, i.e. percentage improvement is\nbased solely on the water efficiency of the micro-component specification.\nBRE Global may allow some exemptions to this rule in instances where a particular fitting type requires a high\nflow rate due to specialised end user requirements, and its specification prevents compliance with the 25%\nimprovement.\nBuildings with a mix of different functional areas\nFor the majority of buildings using the standard Wat 01 method, the BREEAM Wat 01 calculator defines the\nbuilding type and range of different water-consuming activity areas within that building. For example, a retail\ndevelopment may contain sales area and goods storage or an office building may include a canteen and gym.\nHowever, where carrying out a single assessment of a building or development consisting of a diverse mix of\nactivity areas or building types, each one of which can be assessed separately within the calculator, the\nfollowing applies:\nDetermine the building’s total water consumption performance by carrying out separate assessments for each\nrelevant activity area or building type. On completion of all the individual assessments, the assessor will need to\ndetermine the percentage improvement as follows:\nWhere greywater or rainwater systems are specified, the assessor should take care to avoid unintended double\ncounting of the yield from such systems and use it to offset demand for each activity area or building type.\nNo fittings present\nWhere a project under assessment contains none of the specified components, identify in the assessment the\nfacilities most likely to be used by the occupants and visitors of the assessed building (e.g. specific facilities\nprovided in a nearby accessible building). Conduct the calculations based on the performance specification of\nthe components in those nearby facilities.\nThis rule also applies where a project under assessment consists solely of an extension to an existing building,\ni.e. where the extended building contains no new sanitary facilities because there are facilities present within\nthe existing building.\nWater consumption calculation for push and automatic shut-off taps\nFor input into the Wat 01 calculator, calculate the water consumption of push and automatic shut-off taps\nusing the following steps:\nStep 1: Calculate the water consumption per person per use.\nIf a tap runs for less than 20 seconds per activation, assume it will be activated twice per person for the timed\nduration. For example, for a tap with a flow rate of 9 litres/min and a 15 second usage duration, the water\nconsumed per person would be: 9 x (15/60) x 2 = 4.5 litres/min.\nIf a tap runs for 20 seconds or more per activation, assume one activation per person for the timed duration.\nFor example, for a tap with a flow rate of 9 litres/min and a 20 second usage duration, the water consumed per\nperson would be: 9 x (20/60) x 1 = 3 litres/min.\nStep 2: Multiply the water consumption figure per person by 1.5 and enter this figure into the calculator tool.\nMultiplying by 1.5 adjusts the consumption figure to compensate for the typical non-timed tap use of 40\nseconds that has already been taken into account in the tool. Taking the first example above, 4.5 litres/min\nmultiplied by 1.5 gives 6.75 litres/min. When this is used in the tool as the flow rate specification, the\nconsumption is 4.57 litres/person/day which more closely reflects the true level of water consumption for the\npush tap.\nFlow rates for click taps present\nThe flow rate for click taps shall be taken as the maximum flow rate, as quoted by the manufacturer, of the\nlower range before the water break or ‘click’.\nFixed water use\nThe BREEAM water efficiency calculation includes an allowance for fixed water use. This includes water\nconsumption for vessel filling (for building users drinking water), cleaning in kitchens and food preparation in\nbuildings with a catering facility. Fixed uses are included to provide greater accuracy in the reporting of the\nbuilding’s overall estimated water consumption. As these uses are fixed for both actual and baseline building\nmodels, their totals do not influence the achievement of BREEAM credits.\nOther permissible component demand for non-potable water\nThis BREEAM issue focuses on the performance of the building's permanent domestic-scale water-consuming\ncomponents. Where a greywater or rainwater system is specified, the yield from the system should be\nprioritised for such uses, i.e. WC or urinal flushing. However, where the building demonstrates that it has other\nconsistent (i.e. daily) and equivalent levels of non-potable water demand, and such demands are intrinsic to\nthe building’s operation, then it is permissible for the demand from these non-domestic uses to be counted,\ni.e. the demand for rainwater or greywater yield from such systems or components can be used as well as, or\ninstead of, non-potable water demand from the building's WC or urinal components. Examples of consistent\nand intrinsic demands could include laundry use in hotels and multi-residential developments or horticultural\nuses in garden centres, botanical gardens and golf courses. Demand for general landscaping and ornamental\nplanting irrigation are not considered as equivalent or intrinsic by BREEAM.\nOther permissible sources of non-potable water\nThe methodology allows for the collection and recycling of non-potable water from the relevant components\nlisted in the criteria, i.e. taps, showers, baths; dishwashers or washing machines. In addition, where non-\npotable water is collected from a non-domestic component or source that is intrinsic to the building, then the\namount collected can be accounted for in the methodology. This could include for example waste water from\nactive hygiene flushing, i.e. a regular hygiene flushing programme to minimise poor water quality in a potable\ncold or hot water system. In order for the method to account for this total, the design team needs to confirm\nto the assessor the yield from the component or system (in litres) and the frequency of that yield (in days), i.e. if\nonce a week, the frequency would be seven days.\nEvidence\n[TABLE L10_T1]\nDefinitions\nBREEAM Wat 01 calculator for new non-domestic buildings\nThe BREEAM Wat 01 calculator is a tool for the assessment of water efficiency in most common types of new\nnon-domestic buildings. The calculator assesses the contribution that each domestic-scale water-consuming\ncomponent (as listed in the criteria) has on the building's total water consumption. The calculator is a\ncompliance tool and not a design tool for water demand and drainage systems. The tool uses default usage\nand occupancy rates to provide a benchmark of the typical consumption based on the specified fittings (in\nlitres/person/day and m³/person/year) and their impact on the building's overall water efficiency. Due to the\nimpacts and differences of actual user behaviour and occupancy rates, the results of the method will not\nreflect directly the actual water use during building operation. The results from the methodology should,\ntherefore, not be used for the purpose of comparison with or prediction of actual water consumption from a\nnon-domestic building.\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nDomestic-scale water-consuming components\nDomestic-scale components include kitchen taps, wash-hand basin taps, baths, showers and dishwashers,\nWCs, urinals, washing machines and waste disposal units. These components might consume potable or\nnon-potable water.\nWater fittings used for a process-related function, e.g. laboratory or classroom taps, scrub-up taps, cleaners’\nsinks etc., should be excluded from the assessment of water consumption for sanitary use.\nEffective flush volume\nThe effective flush volume of a single-flush WC is the volume of water used for one flush. The effective flush\nvolume of a dual-flush WC is the ratio of full flush to reduced flush. This is taken to be one full flush for every\nthree reduced flushes for non-domestic buildings and one full flush for every two reduced flushes in\ndomestic (residential) buildings or areas. The effective flush volume can therefore be calculated as follows,\nusing a 6/4 litre dual-flush volume WC as an example:\n– Non-domestic: {(6 litre x 1) + (4 litre x 3)}/4 = 4.5 litre effective flushing volume (for a 6/4 dual-flush WC)\n– Domestic: {(6 litre x 1) + (4 litre x 2)}/3 = 4.67 litre effective flushing volume (for a 6/4 dual-flush WC)\nThe different ratio between non-domestic and domestic buildings reflects the different patterns of user\nbehaviour between these building types.\nWhere buildings have both, domestic and non-domestic function areas, conduct the calculations accordingly\nfor the WCs specified in the relevant spaces. For example, in a hotel building, for WCs in hotel rooms use the\n'domestic' effective flush volume calculation and for WCs in staff areas use the 'non-domestic' calculation.\nGreywater recycling\nThe appropriate collection, treatment and storage of domestic waste water (which is defined as that\ndischarged from kitchens, baths or showers, laundry rooms and similar) to meet a non-potable water\ndemand in the building, e.g. WC flushing, or other permissible non-potable use on the site of the assessed\nbuilding.\nPotable water\nWater suitable for human consumption that meets the requirements of Section 67 (Standards of\nWholesomeness) of the Water Industry Act 1991(165) is referred to as 'wholesome water'.\nNon-potable water\nAny water other than potable water, also referred to as unwholesome water (BS 8525).\nRainwater recycling\nThe appropriate collection and storage of rainwater run-off from hard outdoor surfaces to meet a non-\npotable water demand in the building, e.g. WC flushing, or other permissible non-potable use on the site of\nthe assessed building.\nVolume controller\nAn automatic control device used to turn off the water supply once the maximum pre-set volume is reached\nwithin a defined period.\nAdditional information\nEuropean Water Label Scheme: Water efficiency label\nThe European Water Label is a scheme initiated by bathroom manufacturers across the globe and it provides a\ndatabase of bathroom products of different levels of water efficiency. It includes products by multiple\nEuropean bathroom manufacturers and can help project teams identify products appropriate for their\nspecifications.\nUseful guidance\nThe following list of documents may be useful:\n– BRE Global. SD129: Certification and listing of low flush WC appliances. 2008.\n– BS 6465-3:2006. Sanitary installations. Code of practice for the selection, installation and maintenance of\nsanitary and associated appliances. BSI; 2006.\n– Communities and Local Government. Waterwise: Water efficiency calculator for new dwellings [Internet].\n2009. Available from: www.waterwise.org.uk\n– Entec UK Limited. BD 2683: Assessing the costs and benefits of improvements to the water efficiency of\nnew non-household buildings - final research report. Department for Communities and Local Government;\n2010.\n– Environment Agency. Conserving water in buildings: a practical guide. 2007.\n– Market Transformation Programme. BNWAT07: Baths - water efficiency performance tests (version 2.0).\n2007.\n– Market Transformation Programme. BNWAT23: Reliability of information on water consumption of\nappliances (version 1). 2007.\n– Market Transformation Programme. Sustainable products 2006: policy analysis and projections. Defra;\n2006.\n– Waggett R, Arotsky C. CIRIA W10 Key Performance Indicators for water use in hotels. CIRIA; 2006.\n– Waggett R, Arotsky C. CIRIA W11 Key Performance Indicators for water use in offices. CIRIA; 2006.\n– Water UK. Waste macerators - the impact on sewers: 2009.\n– BRE Global. SD175: Certification and listing of water efficient baths. 2008.\n– Water efficient product labelling scheme: www.water-efficiencylabel.org.uk",
+    "normalized_text": "5\n5\n5\nNot applicable\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards\nAim\nTo reduce the consumption of potable water for sanitary use in new buildings through the use of water\nefficient components and water recycling systems.\nValue\n– Improving water efficiency and reducing cost related to water consumption in use.\n– Reducing potable water use so helping to conserve stretched water reserves at times of shortage.\n– Reducing water industry greenhouse gas emissions, pollution impacts and associated costs on a national\nlevel.\nContext\nIn England(152) the average person uses about 150 litres of water a day for a range of uses including\nsanitation, where significant savings are possible. Given that climate projections forecast half as much rainfall\nin summer in the South East of England by 2080, it is important to build water efficiency in to our building\nstock and minimise the need for major infrastructure enhancements to meet these pressures as well as\ngrowing demands. Under these scenarios and with the expected high population growth, unless adaptation\ninterventions are made, deficits are expected to be already widespread by the 2050s. The UK is expected to be\nin deficit by up to 16% of the total water demand in the 2050s and of up to 29% in the 2080s leading to\nmajor impacts on cost and resource levels(153).\nAssessment scope\n[TABLE L2_T1]\nSpecific notes\n[TABLE L2_T2]\n[TABLE L3_T2]\nAssessment criteria\nUp to five credits\n1\nUse the BREEAM Wat 01 calculator to assess the efficiency of the domestic water-consuming components.\n2\nUse the standard Wat 01 method (see Methodology on the next page) to compare the water consumption\n(litres/person/day) for the assessed building against a baseline performance. Award BREEAM credits based\nupon Table 8.1 below. Where it is not possible to use the standard method, complete the assessment\nusing the alternative Wat 01 method (see Methodology on the next page).\nTable 8.1 BREEAM credits available for percentage improvement over baseline building water consumption\n[TABLE L3_T3]\n3\nIf a greywater or rainwater system (see Definitions on page 231) is specified, use its yield in L/person/day to\noffset potable water demand from components.\n4\nIf a greywater or rainwater system is specified and installed:\n4.a\nGreywater systems in compliance with BS 8525-1:2010 Greywater systems - Part 1 Code of Practice\n(156).\n4.b\nRainwater systems in compliance with BS EN 16941-1:2018(157).\nAchieve - Criterion 6 on page 236, if you intend to carry out a post occupancy evaluation.\nAdditionally for Healthcare building types only:\n5\nIf applicable, the flushing control for each WC or urinal must be suitable for operation by patients with frail\nor infirm hands or activated by electronic sensors (see 2.0 on the previous page).\nAdditionally for Prison building types only:\n6\nSanitary components specified within a prison cell have a volume controller specified on the individual\nfittings or water supply to each cell (see Definitions on page 231).\nExemplary level criteria\nTo achieve an exemplary performance credit:\n7\nAchieve criteria 1 to 4 above (and if applicable 5 or 6 above).\n8\nThe water consumption (litres/person/day) for the assessed building achieves the 65% improvement\ndescribed as exemplary performance in Table 8.1 on the previous page.\nMethodology\nCalculation of water efficiency performance\nA non-domestic building’s water efficient performance is determined using the BREEAM Wat 01 calculator.\nInclude the efficiency of the following domestic-scale water-consuming components (where specified):\n– WCs\n– Urinals\n– Taps (wash-hand basins and, where specified, kitchen taps and waste disposal unit)\n– Showers\n– Baths\n– Dishwashers (domestic and commercial-sized)\n– Washing machines (domestic and commercial or industrial sized).\nThe BREEAM Wat 01 calculator defines the building types and activity areas for which the above components\nmust be assessed.\nUse one of the following methods to determine the building's water efficient performance:\n– Standard approach for common building types\nOR\n– Alternative method for other building types\nEach method is summarised below.\nStandard Wat 01 method\nThis method uses the building's actual component specification and default usage patterns for the building\ntype and its activity areas to determine water efficiency (measured in litres/person/day and m³/person/yr) for a\nbuilding. The modelled output is compared with the output for a baseline component specification and the\nwater demand saving determined as a percentage improvement. The percentage improvement determines the\nnumber of BREEAM credits achieved, see Table 8.1 on the previous page.\nThe baseline component specification is equivalent to the water efficiency of industry standard components\n(see Table 8.3 on the next page), steered by the minimum levels required by the Water Supply (Water Fittings)\nRegulations(158) and Part G of the Building Regulations(159). The BREEAM percentage improvement\nbenchmarks are based on progressively more efficient standards and product market availability for water-\nconsuming components. For the higher levels of performance, the specification of greywater and rainwater\nsystems is required.\nThe standard approach is the default method for calculating the water efficiency of the assessed building. It is\nused for most of the common building types, where usage data are available. For building types where usage\ndata are not available, the standard approach cannot be used. An alternative approach to compliance\ndescribed below must be used instead. Refer to the BREEAM Wat 01 calculator for the building types which\ncan currently be assessed using the standard approach.\nAlternative Wat 01 method\nWhere the standard approach cannot be used to determine the building's water consumption\n(litres/person/day), the assessment is completed on an elemental basis, as follows:\n1.\nUse the list of applicable water-consuming components and determine those that are specified or\npresent in the assessed building.\n2.\nUse the actual specification for each component type to complete the 'Other building type calculator'\nworksheet of the BREEAM Wat 01 calculator. Table 8.3 on the next page defines the levels of\nperformance for each component type. The volumes quoted are maximum values for each level but\nthe greywater or rainwater system % is a minimum for the '% of WC or urinal flushing demand met\nusing recycled non-potable water’.\n3.\nWeightings applied in the calculator are:\na.\nbuilding type specific weightings to each component level to reflect its ‘in-use’ consumption relative\nto the other components present. A component with high ‘in-use’ water consumption has a higher\nweighting than one with lower ‘in-use’ consumption and therefore makes a relatively larger\ncontribution to the building’s overall level of performance.\nb.\nderived from data on actual water consumption per day from non-domestic buildings, sourced from\nBNWAT22(160). These are in the BREEAM Wat 01 calculator.\n4.\nBased upon the performance level of each component type and the component weighting, the\ncalculator determines an overall level of performance and awards the relevant number of BREEAM\ncredits, see Table 8.2 below:\nTable 8.2 BREEAM credits based on overall performance level\n[TABLE L5_T1]\n1.\nAn exemplary performance credit is awarded where the component specification achieves level 5 and\n> 95% of WC or urinal flushing demand is met using recycled non-potable water.\n2.\nAchieving a specific overall component level does not necessarily mean that an equivalent number of\ncredits is awarded. The levels are not directly linked to the improvement percentages and the\ngreywater and rainwater levels achieved also have an influence.\n3.\nDue to the use of the weightings, the overall component level achieved is not necessarily a whole\nnumber. Where this is the case, the methodology always rounds down to the nearest component level\nand therefore BREEAM credits level, e.g. if the component specification achieved is 3.6 credits, the\nactual number of credits awarded is 3 credits (the methodology does not round up to 4 credits because\nthe performance specification for 4 credits has not been achieved).\n4.\nWhere the assessed building development has multiple specifications for the same water-consuming\ncomponent type, the number of fittings and component level achieved for each specification is\nentered in the 'Other building type calculator'. Using this information, the calculator determines the\nbuilding’s aggregated performance level for that component type.\nWhile attempts have been made to align the benchmarking of both the standard and alternative\nmethodologies, performance is determined in different ways. The number of BREEAM credits awarded by each\nmethod could differ for the same water component specification. This could lead to variation in the credits\nachieved when applying BREEAM New Construction to a number of different building types that form a part of\nthe same overall development.\nComponent type\nTable 8.3 outlines the consumption performance levels, by component type, used in BREEAM. These levels of\nefficiency have been steered by a range of published sources of information(161) and reflect robust levels of\ntypical, good, best and exemplary practice.\nTable 8.3 Water efficient consumption levels by component type\n[TABLE L6_T1]\nSpecifying components for a building in accordance with the above levels might result in the corresponding\nnumber of BREEAM credits being achieved. However, the component specifications above are akin to\nthresholds between each level. Therefore caution should be exercised when defining a component\nspecification for a BREEAM-assessed building using exactly the same levels as the threshold levels. It is\nrecommended that, where Wat 01 credits are targeted, the performance of a particular building’s component\nspecification is verified using the BREEAM Wat 01 calculator before committing to a particular specification\nand ordering or installing components. This will provide greater assurance that the component specification\nachieves the targeted number of BREEAM credits.\nWater-consuming components – data requirements\nFor each component type, the appropriate data will need to be collected from manufacturers’ product\ninformation to complete the assessment.\nTable 8.4 Data requirements for each domestic component type\n[TABLE L7_T2]\nUnspecified water-consuming components\nThe methodology for awarding credits for water efficiency compares the building's modelled water\nconsumption performance against the performance of a baseline specification for the same component types.\nTherefore, where a component type is not specified it is not accounted for in the methodology, i.e. the\ncomponent is excluded from both the proposed and baseline building. No benefit is gained in terms of\nBREEAM performance, by deciding not to specify a particular component. However, the methodology will\nreflect the reduction in overall water consumption (litres/person/day) for the building, as a result of not\nspecifying a particular component.\nBuildings with greywater or rainwater systems\nThe following information is required where a greywater or rainwater system is specified:\nRainwater: in accordance with BS EN 16941-1:2018(163) ‘basic approach’:\n1.\nHorizontal projection of the collection area (m²)\n2.\nSurface yield co-efficient (%)\n3.\nHydraulic treatment efficiency co-efficient (%)\n4.\nAnnual rainfall (mm/year).\nRainwater: in accordance with BS EN 16941-1:2018 ‘detailed approach’:\n1.\nDaily rainfall collection (litres).\nGreywater: in accordance with BS 8525-1(164):\n1.\nManufacturer or system designer details\n2.\nThe percentage volume of waste water collected (and reused) from the following (where relevant):\nwash-hand basins, showers, kitchen basins, dishwashers, baths, washing machines and sources of\nwaste water from non-domestic components.\nWhere greywater or rainwater systems are specified, a minimum level of component efficiency must be\nachieved to award 4 or 5 BREEAM credits and the exemplary level credit. This is to avoid awarding a higher\nnumber of BREEAM credits where performance from less efficient fittings is offset by the specification of a\ngreywater or rainwater collection system.\nThe intention behind this, is to ensure demand reduction is prioritised before offsetting consumption. Where a\ngreywater or rainwater system is specified or installed, the component specification must achieve at least a\n25% percentage reduction in water consumption (over the baseline specification) equivalent to 2 credits.\nWhere this level is achieved, the total water demand met by greywater or rainwater sources can contribute to\nthe overall percentage improvement required to achieve BREEAM credits. If this minimum is not achieved, the\npercentage of greywater or rainwater allowable will be equivalent to the percentage improvement in water\nconsumption achieved for the component specification, i.e. percentage improvement on baseline\nperformance.\nFor example, if a 20% improvement only is achieved, and therefore the building does not meet the 25%\nrequirement, only 20% of the water demand met via greywater or rainwater sources can be used to offset\nwater consumption from the micro-components. This minimum requirement does not apply where only 1, 2 or\n3 credits are sought or where no greywater or rainwater system is specified, i.e. percentage improvement is\nbased solely on the water efficiency of the micro-component specification.\nBRE Global may allow some exemptions to this rule in instances where a particular fitting type requires a high\nflow rate due to specialised end user requirements, and its specification prevents compliance with the 25%\nimprovement.\nBuildings with a mix of different functional areas\nFor the majority of buildings using the standard Wat 01 method, the BREEAM Wat 01 calculator defines the\nbuilding type and range of different water-consuming activity areas within that building. For example, a retail\ndevelopment may contain sales area and goods storage or an office building may include a canteen and gym.\nHowever, where carrying out a single assessment of a building or development consisting of a diverse mix of\nactivity areas or building types, each one of which can be assessed separately within the calculator, the\nfollowing applies:\nDetermine the building’s total water consumption performance by carrying out separate assessments for each\nrelevant activity area or building type. On completion of all the individual assessments, the assessor will need to\ndetermine the percentage improvement as follows:\nWhere greywater or rainwater systems are specified, the assessor should take care to avoid unintended double\ncounting of the yield from such systems and use it to offset demand for each activity area or building type.\nNo fittings present\nWhere a project under assessment contains none of the specified components, identify in the assessment the\nfacilities most likely to be used by the occupants and visitors of the assessed building (e.g. specific facilities\nprovided in a nearby accessible building). Conduct the calculations based on the performance specification of\nthe components in those nearby facilities.\nThis rule also applies where a project under assessment consists solely of an extension to an existing building,\ni.e. where the extended building contains no new sanitary facilities because there are facilities present within\nthe existing building.\nWater consumption calculation for push and automatic shut-off taps\nFor input into the Wat 01 calculator, calculate the water consumption of push and automatic shut-off taps\nusing the following steps:\nStep 1: Calculate the water consumption per person per use.\nIf a tap runs for less than 20 seconds per activation, assume it will be activated twice per person for the timed\nduration. For example, for a tap with a flow rate of 9 litres/min and a 15 second usage duration, the water\nconsumed per person would be: 9 x (15/60) x 2 = 4.5 litres/min.\nIf a tap runs for 20 seconds or more per activation, assume one activation per person for the timed duration.\nFor example, for a tap with a flow rate of 9 litres/min and a 20 second usage duration, the water consumed per\nperson would be: 9 x (20/60) x 1 = 3 litres/min.\nStep 2: Multiply the water consumption figure per person by 1.5 and enter this figure into the calculator tool.\nMultiplying by 1.5 adjusts the consumption figure to compensate for the typical non-timed tap use of 40\nseconds that has already been taken into account in the tool. Taking the first example above, 4.5 litres/min\nmultiplied by 1.5 gives 6.75 litres/min. When this is used in the tool as the flow rate specification, the\nconsumption is 4.57 litres/person/day which more closely reflects the true level of water consumption for the\npush tap.\nFlow rates for click taps present\nThe flow rate for click taps shall be taken as the maximum flow rate, as quoted by the manufacturer, of the\nlower range before the water break or ‘click’.\nFixed water use\nThe BREEAM water efficiency calculation includes an allowance for fixed water use. This includes water\nconsumption for vessel filling (for building users drinking water), cleaning in kitchens and food preparation in\nbuildings with a catering facility. Fixed uses are included to provide greater accuracy in the reporting of the\nbuilding’s overall estimated water consumption. As these uses are fixed for both actual and baseline building\nmodels, their totals do not influence the achievement of BREEAM credits.\nOther permissible component demand for non-potable water\nThis BREEAM issue focuses on the performance of the building's permanent domestic-scale water-consuming\ncomponents. Where a greywater or rainwater system is specified, the yield from the system should be\nprioritised for such uses, i.e. WC or urinal flushing. However, where the building demonstrates that it has other\nconsistent (i.e. daily) and equivalent levels of non-potable water demand, and such demands are intrinsic to\nthe building’s operation, then it is permissible for the demand from these non-domestic uses to be counted,\ni.e. the demand for rainwater or greywater yield from such systems or components can be used as well as, or\ninstead of, non-potable water demand from the building's WC or urinal components. Examples of consistent\nand intrinsic demands could include laundry use in hotels and multi-residential developments or horticultural\nuses in garden centres, botanical gardens and golf courses. Demand for general landscaping and ornamental\nplanting irrigation are not considered as equivalent or intrinsic by BREEAM.\nOther permissible sources of non-potable water\nThe methodology allows for the collection and recycling of non-potable water from the relevant components\nlisted in the criteria, i.e. taps, showers, baths; dishwashers or washing machines. In addition, where non-\npotable water is collected from a non-domestic component or source that is intrinsic to the building, then the\namount collected can be accounted for in the methodology. This could include for example waste water from\nactive hygiene flushing, i.e. a regular hygiene flushing programme to minimise poor water quality in a potable\ncold or hot water system. In order for the method to account for this total, the design team needs to confirm\nto the assessor the yield from the component or system (in litres) and the frequency of that yield (in days), i.e. if\nonce a week, the frequency would be seven days.\nEvidence\n[TABLE L10_T1]\nDefinitions\nBREEAM Wat 01 calculator for new non-domestic buildings\nThe BREEAM Wat 01 calculator is a tool for the assessment of water efficiency in most common types of new\nnon-domestic buildings. The calculator assesses the contribution that each domestic-scale water-consuming\ncomponent (as listed in the criteria) has on the building's total water consumption. The calculator is a\ncompliance tool and not a design tool for water demand and drainage systems. The tool uses default usage\nand occupancy rates to provide a benchmark of the typical consumption based on the specified fittings (in\nlitres/person/day and m³/person/year) and their impact on the building's overall water efficiency. Due to the\nimpacts and differences of actual user behaviour and occupancy rates, the results of the method will not\nreflect directly the actual water use during building operation. The results from the methodology should,\ntherefore, not be used for the purpose of comparison with or prediction of actual water consumption from a\nnon-domestic building.\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nDomestic-scale water-consuming components\nDomestic-scale components include kitchen taps, wash-hand basin taps, baths, showers and dishwashers,\nWCs, urinals, washing machines and waste disposal units. These components might consume potable or\nnon-potable water.\nWater fittings used for a process-related function, e.g. laboratory or classroom taps, scrub-up taps, cleaners’\nsinks etc., should be excluded from the assessment of water consumption for sanitary use.\nEffective flush volume\nThe effective flush volume of a single-flush WC is the volume of water used for one flush. The effective flush\nvolume of a dual-flush WC is the ratio of full flush to reduced flush. This is taken to be one full flush for every\nthree reduced flushes for non-domestic buildings and one full flush for every two reduced flushes in\ndomestic (residential) buildings or areas. The effective flush volume can therefore be calculated as follows,\nusing a 6/4 litre dual-flush volume WC as an example:\n– Non-domestic: {(6 litre x 1) + (4 litre x 3)}/4 = 4.5 litre effective flushing volume (for a 6/4 dual-flush WC)\n– Domestic: {(6 litre x 1) + (4 litre x 2)}/3 = 4.67 litre effective flushing volume (for a 6/4 dual-flush WC)\nThe different ratio between non-domestic and domestic buildings reflects the different patterns of user\nbehaviour between these building types.\nWhere buildings have both, domestic and non-domestic function areas, conduct the calculations accordingly\nfor the WCs specified in the relevant spaces. For example, in a hotel building, for WCs in hotel rooms use the\n'domestic' effective flush volume calculation and for WCs in staff areas use the 'non-domestic' calculation.\nGreywater recycling\nThe appropriate collection, treatment and storage of domestic waste water (which is defined as that\ndischarged from kitchens, baths or showers, laundry rooms and similar) to meet a non-potable water\ndemand in the building, e.g. WC flushing, or other permissible non-potable use on the site of the assessed\nbuilding.\nPotable water\nWater suitable for human consumption that meets the requirements of Section 67 (Standards of\nWholesomeness) of the Water Industry Act 1991(165) is referred to as 'wholesome water'.\nNon-potable water\nAny water other than potable water, also referred to as unwholesome water (BS 8525).\nRainwater recycling\nThe appropriate collection and storage of rainwater run-off from hard outdoor surfaces to meet a non-\npotable water demand in the building, e.g. WC flushing, or other permissible non-potable use on the site of\nthe assessed building.\nVolume controller\nAn automatic control device used to turn off the water supply once the maximum pre-set volume is reached\nwithin a defined period.\nAdditional information\nEuropean Water Label Scheme: Water efficiency label\nThe European Water Label is a scheme initiated by bathroom manufacturers across the globe and it provides a\ndatabase of bathroom products of different levels of water efficiency. It includes products by multiple\nEuropean bathroom manufacturers and can help project teams identify products appropriate for their\nspecifications.\nUseful guidance\nThe following list of documents may be useful:\n– BRE Global. SD129: Certification and listing of low flush WC appliances. 2008.\n– BS 6465-3:2006. Sanitary installations. Code of practice for the selection, installation and maintenance of\nsanitary and associated appliances. BSI; 2006.\n– Communities and Local Government. Waterwise: Water efficiency calculator for new dwellings [Internet].\n2009. Available from: www.waterwise.org.uk\n– Entec UK Limited. BD 2683: Assessing the costs and benefits of improvements to the water efficiency of\nnew non-household buildings - final research report. Department for Communities and Local Government;\n2010.\n– Environment Agency. Conserving water in buildings: a practical guide. 2007.\n– Market Transformation Programme. BNWAT07: Baths - water efficiency performance tests (version 2.0).\n2007.\n– Market Transformation Programme. BNWAT23: Reliability of information on water consumption of\nappliances (version 1). 2007.\n– Market Transformation Programme. Sustainable products 2006: policy analysis and projections. Defra;\n2006.\n– Waggett R, Arotsky C. CIRIA W10 Key Performance Indicators for water use in hotels. CIRIA; 2006.\n– Waggett R, Arotsky C. CIRIA W11 Key Performance Indicators for water use in offices. CIRIA; 2006.\n– Water UK. Waste macerators - the impact on sewers: 2009.\n– BRE Global. SD175: Certification and listing of water efficient baths. 2008.\n– Water efficient product labelling scheme: www.water-efficiencylabel.org.uk",
+    "subsections": [
+      {
+        "heading": null,
+        "text": "5\n5\n5\nNot applicable\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards",
+        "criteria": []
+      },
+      {
+        "heading": "Aim",
+        "text": "To reduce the consumption of potable water for sanitary use in new buildings through the use of water\nefficient components and water recycling systems.",
+        "criteria": []
+      },
+      {
+        "heading": "Value",
+        "text": "– Improving water efficiency and reducing cost related to water consumption in use.\n– Reducing potable water use so helping to conserve stretched water reserves at times of shortage.\n– Reducing water industry greenhouse gas emissions, pollution impacts and associated costs on a national\nlevel.",
+        "criteria": []
+      },
+      {
+        "heading": "Context",
+        "text": "In England(152) the average person uses about 150 litres of water a day for a range of uses including\nsanitation, where significant savings are possible. Given that climate projections forecast half as much rainfall\nin summer in the South East of England by 2080, it is important to build water efficiency in to our building\nstock and minimise the need for major infrastructure enhancements to meet these pressures as well as\ngrowing demands. Under these scenarios and with the expected high population growth, unless adaptation\ninterventions are made, deficits are expected to be already widespread by the 2050s. The UK is expected to be\nin deficit by up to 16% of the total water demand in the 2050s and of up to 29% in the 2080s leading to\nmajor impacts on cost and resource levels(153).",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment scope",
+        "text": "[TABLE L2_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Specific notes",
+        "text": "[TABLE L2_T2]\n[TABLE L3_T2]",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment criteria",
+        "text": "Up to five credits\n1\nUse the BREEAM Wat 01 calculator to assess the efficiency of the domestic water-consuming components.\n2\nUse the standard Wat 01 method (see Methodology on the next page) to compare the water consumption\n(litres/person/day) for the assessed building against a baseline performance. Award BREEAM credits based\nupon Table 8.1 below. Where it is not possible to use the standard method, complete the assessment\nusing the alternative Wat 01 method (see Methodology on the next page).\nTable 8.1 BREEAM credits available for percentage improvement over baseline building water consumption\n[TABLE L3_T3]\n3\nIf a greywater or rainwater system (see Definitions on page 231) is specified, use its yield in L/person/day to\noffset potable water demand from components.\n4\nIf a greywater or rainwater system is specified and installed:\n4.a\nGreywater systems in compliance with BS 8525-1:2010 Greywater systems - Part 1 Code of Practice\n(156).\n4.b\nRainwater systems in compliance with BS EN 16941-1:2018(157).\nAchieve - Criterion 6 on page 236, if you intend to carry out a post occupancy evaluation.\nAdditionally for Healthcare building types only:\n5\nIf applicable, the flushing control for each WC or urinal must be suitable for operation by patients with frail\nor infirm hands or activated by electronic sensors (see 2.0 on the previous page).\nAdditionally for Prison building types only:\n6\nSanitary components specified within a prison cell have a volume controller specified on the individual\nfittings or water supply to each cell (see Definitions on page 231).\nExemplary level criteria\nTo achieve an exemplary performance credit:\n7\nAchieve criteria 1 to 4 above (and if applicable 5 or 6 above).\n8\nThe water consumption (litres/person/day) for the assessed building achieves the 65% improvement\ndescribed as exemplary performance in Table 8.1 on the previous page.",
+        "criteria": [
+          {
+            "id": "1",
+            "group": "Up to five credits",
+            "text": "Use the BREEAM Wat 01 calculator to assess the efficiency of the domestic water-consuming components."
+          },
+          {
+            "id": "2",
+            "group": "Up to five credits",
+            "text": "Use the standard Wat 01 method (see Methodology on the next page) to compare the water consumption\n(litres/person/day) for the assessed building against a baseline performance. Award BREEAM credits based\nupon Table 8.1 below. Where it is not possible to use the standard method, complete the assessment\nusing the alternative Wat 01 method (see Methodology on the next page).\nTable 8.1 BREEAM credits available for percentage improvement over baseline building water consumption\n[TABLE L3_T3]"
+          },
+          {
+            "id": "3",
+            "group": "Up to five credits",
+            "text": "If a greywater or rainwater system (see Definitions on page 231) is specified, use its yield in L/person/day to\noffset potable water demand from components."
+          },
+          {
+            "id": "4",
+            "group": "Up to five credits",
+            "text": "If a greywater or rainwater system is specified and installed:"
+          },
+          {
+            "id": "4.a",
+            "group": "Up to five credits",
+            "text": "Greywater systems in compliance with BS 8525-1:2010 Greywater systems - Part 1 Code of Practice\n(156)."
+          },
+          {
+            "id": "4.b",
+            "group": "Up to five credits",
+            "text": "Rainwater systems in compliance with BS EN 16941-1:2018(157).\nAchieve - Criterion 6 on page 236, if you intend to carry out a post occupancy evaluation.\nAdditionally for Healthcare building types only:"
+          },
+          {
+            "id": "5",
+            "group": "Up to five credits",
+            "text": "If applicable, the flushing control for each WC or urinal must be suitable for operation by patients with frail\nor infirm hands or activated by electronic sensors (see 2.0 on the previous page).\nAdditionally for Prison building types only:"
+          },
+          {
+            "id": "6",
+            "group": "Up to five credits",
+            "text": "Sanitary components specified within a prison cell have a volume controller specified on the individual\nfittings or water supply to each cell (see Definitions on page 231).\nExemplary level criteria\nTo achieve an exemplary performance credit:"
+          },
+          {
+            "id": "7",
+            "group": "Up to five credits",
+            "text": "Achieve criteria 1 to 4 above (and if applicable 5 or 6 above)."
+          },
+          {
+            "id": "8",
+            "group": "Up to five credits",
+            "text": "The water consumption (litres/person/day) for the assessed building achieves the 65% improvement\ndescribed as exemplary performance in Table 8.1 on the previous page."
+          }
+        ]
+      },
+      {
+        "heading": "Methodology",
+        "text": "Calculation of water efficiency performance\nA non-domestic building’s water efficient performance is determined using the BREEAM Wat 01 calculator.\nInclude the efficiency of the following domestic-scale water-consuming components (where specified):\n– WCs\n– Urinals\n– Taps (wash-hand basins and, where specified, kitchen taps and waste disposal unit)\n– Showers\n– Baths\n– Dishwashers (domestic and commercial-sized)\n– Washing machines (domestic and commercial or industrial sized).\nThe BREEAM Wat 01 calculator defines the building types and activity areas for which the above components\nmust be assessed.\nUse one of the following methods to determine the building's water efficient performance:\n– Standard approach for common building types\nOR\n– Alternative method for other building types\nEach method is summarised below.\nStandard Wat 01 method\nThis method uses the building's actual component specification and default usage patterns for the building\ntype and its activity areas to determine water efficiency (measured in litres/person/day and m³/person/yr) for a\nbuilding. The modelled output is compared with the output for a baseline component specification and the\nwater demand saving determined as a percentage improvement. The percentage improvement determines the\nnumber of BREEAM credits achieved, see Table 8.1 on the previous page.\nThe baseline component specification is equivalent to the water efficiency of industry standard components\n(see Table 8.3 on the next page), steered by the minimum levels required by the Water Supply (Water Fittings)\nRegulations(158) and Part G of the Building Regulations(159). The BREEAM percentage improvement\nbenchmarks are based on progressively more efficient standards and product market availability for water-\nconsuming components. For the higher levels of performance, the specification of greywater and rainwater\nsystems is required.\nThe standard approach is the default method for calculating the water efficiency of the assessed building. It is\nused for most of the common building types, where usage data are available. For building types where usage\ndata are not available, the standard approach cannot be used. An alternative approach to compliance\ndescribed below must be used instead. Refer to the BREEAM Wat 01 calculator for the building types which\ncan currently be assessed using the standard approach.\nAlternative Wat 01 method\nWhere the standard approach cannot be used to determine the building's water consumption\n(litres/person/day), the assessment is completed on an elemental basis, as follows:\n1.\nUse the list of applicable water-consuming components and determine those that are specified or\npresent in the assessed building.\n2.\nUse the actual specification for each component type to complete the 'Other building type calculator'\nworksheet of the BREEAM Wat 01 calculator. Table 8.3 on the next page defines the levels of\nperformance for each component type. The volumes quoted are maximum values for each level but\nthe greywater or rainwater system % is a minimum for the '% of WC or urinal flushing demand met\nusing recycled non-potable water’.\n3.\nWeightings applied in the calculator are:\na.\nbuilding type specific weightings to each component level to reflect its ‘in-use’ consumption relative\nto the other components present. A component with high ‘in-use’ water consumption has a higher\nweighting than one with lower ‘in-use’ consumption and therefore makes a relatively larger\ncontribution to the building’s overall level of performance.\nb.\nderived from data on actual water consumption per day from non-domestic buildings, sourced from\nBNWAT22(160). These are in the BREEAM Wat 01 calculator.\n4.\nBased upon the performance level of each component type and the component weighting, the\ncalculator determines an overall level of performance and awards the relevant number of BREEAM\ncredits, see Table 8.2 below:\nTable 8.2 BREEAM credits based on overall performance level\n[TABLE L5_T1]\n1.\nAn exemplary performance credit is awarded where the component specification achieves level 5 and\n> 95% of WC or urinal flushing demand is met using recycled non-potable water.\n2.\nAchieving a specific overall component level does not necessarily mean that an equivalent number of\ncredits is awarded. The levels are not directly linked to the improvement percentages and the\ngreywater and rainwater levels achieved also have an influence.\n3.\nDue to the use of the weightings, the overall component level achieved is not necessarily a whole\nnumber. Where this is the case, the methodology always rounds down to the nearest component level\nand therefore BREEAM credits level, e.g. if the component specification achieved is 3.6 credits, the\nactual number of credits awarded is 3 credits (the methodology does not round up to 4 credits because\nthe performance specification for 4 credits has not been achieved).\n4.\nWhere the assessed building development has multiple specifications for the same water-consuming\ncomponent type, the number of fittings and component level achieved for each specification is\nentered in the 'Other building type calculator'. Using this information, the calculator determines the\nbuilding’s aggregated performance level for that component type.\nWhile attempts have been made to align the benchmarking of both the standard and alternative\nmethodologies, performance is determined in different ways. The number of BREEAM credits awarded by each\nmethod could differ for the same water component specification. This could lead to variation in the credits\nachieved when applying BREEAM New Construction to a number of different building types that form a part of\nthe same overall development.\nComponent type\nTable 8.3 outlines the consumption performance levels, by component type, used in BREEAM. These levels of\nefficiency have been steered by a range of published sources of information(161) and reflect robust levels of\ntypical, good, best and exemplary practice.\nTable 8.3 Water efficient consumption levels by component type\n[TABLE L6_T1]\nSpecifying components for a building in accordance with the above levels might result in the corresponding\nnumber of BREEAM credits being achieved. However, the component specifications above are akin to\nthresholds between each level. Therefore caution should be exercised when defining a component\nspecification for a BREEAM-assessed building using exactly the same levels as the threshold levels. It is\nrecommended that, where Wat 01 credits are targeted, the performance of a particular building’s component\nspecification is verified using the BREEAM Wat 01 calculator before committing to a particular specification\nand ordering or installing components. This will provide greater assurance that the component specification\nachieves the targeted number of BREEAM credits.\nWater-consuming components – data requirements\nFor each component type, the appropriate data will need to be collected from manufacturers’ product\ninformation to complete the assessment.\nTable 8.4 Data requirements for each domestic component type\n[TABLE L7_T2]\nUnspecified water-consuming components\nThe methodology for awarding credits for water efficiency compares the building's modelled water\nconsumption performance against the performance of a baseline specification for the same component types.\nTherefore, where a component type is not specified it is not accounted for in the methodology, i.e. the\ncomponent is excluded from both the proposed and baseline building. No benefit is gained in terms of\nBREEAM performance, by deciding not to specify a particular component. However, the methodology will\nreflect the reduction in overall water consumption (litres/person/day) for the building, as a result of not\nspecifying a particular component.\nBuildings with greywater or rainwater systems\nThe following information is required where a greywater or rainwater system is specified:\nRainwater: in accordance with BS EN 16941-1:2018(163) ‘basic approach’:\n1.\nHorizontal projection of the collection area (m²)\n2.\nSurface yield co-efficient (%)\n3.\nHydraulic treatment efficiency co-efficient (%)\n4.\nAnnual rainfall (mm/year).\nRainwater: in accordance with BS EN 16941-1:2018 ‘detailed approach’:\n1.\nDaily rainfall collection (litres).\nGreywater: in accordance with BS 8525-1(164):\n1.\nManufacturer or system designer details\n2.\nThe percentage volume of waste water collected (and reused) from the following (where relevant):\nwash-hand basins, showers, kitchen basins, dishwashers, baths, washing machines and sources of\nwaste water from non-domestic components.\nWhere greywater or rainwater systems are specified, a minimum level of component efficiency must be\nachieved to award 4 or 5 BREEAM credits and the exemplary level credit. This is to avoid awarding a higher\nnumber of BREEAM credits where performance from less efficient fittings is offset by the specification of a\ngreywater or rainwater collection system.\nThe intention behind this, is to ensure demand reduction is prioritised before offsetting consumption. Where a\ngreywater or rainwater system is specified or installed, the component specification must achieve at least a\n25% percentage reduction in water consumption (over the baseline specification) equivalent to 2 credits.\nWhere this level is achieved, the total water demand met by greywater or rainwater sources can contribute to\nthe overall percentage improvement required to achieve BREEAM credits. If this minimum is not achieved, the\npercentage of greywater or rainwater allowable will be equivalent to the percentage improvement in water\nconsumption achieved for the component specification, i.e. percentage improvement on baseline\nperformance.\nFor example, if a 20% improvement only is achieved, and therefore the building does not meet the 25%\nrequirement, only 20% of the water demand met via greywater or rainwater sources can be used to offset\nwater consumption from the micro-components. This minimum requirement does not apply where only 1, 2 or\n3 credits are sought or where no greywater or rainwater system is specified, i.e. percentage improvement is\nbased solely on the water efficiency of the micro-component specification.\nBRE Global may allow some exemptions to this rule in instances where a particular fitting type requires a high\nflow rate due to specialised end user requirements, and its specification prevents compliance with the 25%\nimprovement.\nBuildings with a mix of different functional areas\nFor the majority of buildings using the standard Wat 01 method, the BREEAM Wat 01 calculator defines the\nbuilding type and range of different water-consuming activity areas within that building. For example, a retail\ndevelopment may contain sales area and goods storage or an office building may include a canteen and gym.\nHowever, where carrying out a single assessment of a building or development consisting of a diverse mix of\nactivity areas or building types, each one of which can be assessed separately within the calculator, the\nfollowing applies:\nDetermine the building’s total water consumption performance by carrying out separate assessments for each\nrelevant activity area or building type. On completion of all the individual assessments, the assessor will need to\ndetermine the percentage improvement as follows:\nWhere greywater or rainwater systems are specified, the assessor should take care to avoid unintended double\ncounting of the yield from such systems and use it to offset demand for each activity area or building type.\nNo fittings present\nWhere a project under assessment contains none of the specified components, identify in the assessment the\nfacilities most likely to be used by the occupants and visitors of the assessed building (e.g. specific facilities\nprovided in a nearby accessible building). Conduct the calculations based on the performance specification of\nthe components in those nearby facilities.\nThis rule also applies where a project under assessment consists solely of an extension to an existing building,\ni.e. where the extended building contains no new sanitary facilities because there are facilities present within\nthe existing building.\nWater consumption calculation for push and automatic shut-off taps\nFor input into the Wat 01 calculator, calculate the water consumption of push and automatic shut-off taps\nusing the following steps:\nStep 1: Calculate the water consumption per person per use.\nIf a tap runs for less than 20 seconds per activation, assume it will be activated twice per person for the timed\nduration. For example, for a tap with a flow rate of 9 litres/min and a 15 second usage duration, the water\nconsumed per person would be: 9 x (15/60) x 2 = 4.5 litres/min.\nIf a tap runs for 20 seconds or more per activation, assume one activation per person for the timed duration.\nFor example, for a tap with a flow rate of 9 litres/min and a 20 second usage duration, the water consumed per\nperson would be: 9 x (20/60) x 1 = 3 litres/min.\nStep 2: Multiply the water consumption figure per person by 1.5 and enter this figure into the calculator tool.\nMultiplying by 1.5 adjusts the consumption figure to compensate for the typical non-timed tap use of 40\nseconds that has already been taken into account in the tool. Taking the first example above, 4.5 litres/min\nmultiplied by 1.5 gives 6.75 litres/min. When this is used in the tool as the flow rate specification, the\nconsumption is 4.57 litres/person/day which more closely reflects the true level of water consumption for the\npush tap.\nFlow rates for click taps present\nThe flow rate for click taps shall be taken as the maximum flow rate, as quoted by the manufacturer, of the\nlower range before the water break or ‘click’.\nFixed water use\nThe BREEAM water efficiency calculation includes an allowance for fixed water use. This includes water\nconsumption for vessel filling (for building users drinking water), cleaning in kitchens and food preparation in\nbuildings with a catering facility. Fixed uses are included to provide greater accuracy in the reporting of the\nbuilding’s overall estimated water consumption. As these uses are fixed for both actual and baseline building\nmodels, their totals do not influence the achievement of BREEAM credits.\nOther permissible component demand for non-potable water\nThis BREEAM issue focuses on the performance of the building's permanent domestic-scale water-consuming\ncomponents. Where a greywater or rainwater system is specified, the yield from the system should be\nprioritised for such uses, i.e. WC or urinal flushing. However, where the building demonstrates that it has other\nconsistent (i.e. daily) and equivalent levels of non-potable water demand, and such demands are intrinsic to\nthe building’s operation, then it is permissible for the demand from these non-domestic uses to be counted,\ni.e. the demand for rainwater or greywater yield from such systems or components can be used as well as, or\ninstead of, non-potable water demand from the building's WC or urinal components. Examples of consistent\nand intrinsic demands could include laundry use in hotels and multi-residential developments or horticultural\nuses in garden centres, botanical gardens and golf courses. Demand for general landscaping and ornamental\nplanting irrigation are not considered as equivalent or intrinsic by BREEAM.\nOther permissible sources of non-potable water\nThe methodology allows for the collection and recycling of non-potable water from the relevant components\nlisted in the criteria, i.e. taps, showers, baths; dishwashers or washing machines. In addition, where non-\npotable water is collected from a non-domestic component or source that is intrinsic to the building, then the\namount collected can be accounted for in the methodology. This could include for example waste water from\nactive hygiene flushing, i.e. a regular hygiene flushing programme to minimise poor water quality in a potable\ncold or hot water system. In order for the method to account for this total, the design team needs to confirm\nto the assessor the yield from the component or system (in litres) and the frequency of that yield (in days), i.e. if\nonce a week, the frequency would be seven days.",
+        "criteria": []
+      },
+      {
+        "heading": "Evidence",
+        "text": "[TABLE L10_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Definitions",
+        "text": "BREEAM Wat 01 calculator for new non-domestic buildings\nThe BREEAM Wat 01 calculator is a tool for the assessment of water efficiency in most common types of new\nnon-domestic buildings. The calculator assesses the contribution that each domestic-scale water-consuming\ncomponent (as listed in the criteria) has on the building's total water consumption. The calculator is a\ncompliance tool and not a design tool for water demand and drainage systems. The tool uses default usage\nand occupancy rates to provide a benchmark of the typical consumption based on the specified fittings (in\nlitres/person/day and m³/person/year) and their impact on the building's overall water efficiency. Due to the\nimpacts and differences of actual user behaviour and occupancy rates, the results of the method will not\nreflect directly the actual water use during building operation. The results from the methodology should,\ntherefore, not be used for the purpose of comparison with or prediction of actual water consumption from a\nnon-domestic building.\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nDomestic-scale water-consuming components\nDomestic-scale components include kitchen taps, wash-hand basin taps, baths, showers and dishwashers,\nWCs, urinals, washing machines and waste disposal units. These components might consume potable or\nnon-potable water.\nWater fittings used for a process-related function, e.g. laboratory or classroom taps, scrub-up taps, cleaners’\nsinks etc., should be excluded from the assessment of water consumption for sanitary use.\nEffective flush volume\nThe effective flush volume of a single-flush WC is the volume of water used for one flush. The effective flush\nvolume of a dual-flush WC is the ratio of full flush to reduced flush. This is taken to be one full flush for every\nthree reduced flushes for non-domestic buildings and one full flush for every two reduced flushes in\ndomestic (residential) buildings or areas. The effective flush volume can therefore be calculated as follows,\nusing a 6/4 litre dual-flush volume WC as an example:\n– Non-domestic: {(6 litre x 1) + (4 litre x 3)}/4 = 4.5 litre effective flushing volume (for a 6/4 dual-flush WC)\n– Domestic: {(6 litre x 1) + (4 litre x 2)}/3 = 4.67 litre effective flushing volume (for a 6/4 dual-flush WC)\nThe different ratio between non-domestic and domestic buildings reflects the different patterns of user\nbehaviour between these building types.\nWhere buildings have both, domestic and non-domestic function areas, conduct the calculations accordingly\nfor the WCs specified in the relevant spaces. For example, in a hotel building, for WCs in hotel rooms use the\n'domestic' effective flush volume calculation and for WCs in staff areas use the 'non-domestic' calculation.\nGreywater recycling\nThe appropriate collection, treatment and storage of domestic waste water (which is defined as that\ndischarged from kitchens, baths or showers, laundry rooms and similar) to meet a non-potable water\ndemand in the building, e.g. WC flushing, or other permissible non-potable use on the site of the assessed\nbuilding.\nPotable water\nWater suitable for human consumption that meets the requirements of Section 67 (Standards of\nWholesomeness) of the Water Industry Act 1991(165) is referred to as 'wholesome water'.\nNon-potable water\nAny water other than potable water, also referred to as unwholesome water (BS 8525).\nRainwater recycling\nThe appropriate collection and storage of rainwater run-off from hard outdoor surfaces to meet a non-\npotable water demand in the building, e.g. WC flushing, or other permissible non-potable use on the site of\nthe assessed building.\nVolume controller\nAn automatic control device used to turn off the water supply once the maximum pre-set volume is reached\nwithin a defined period.",
+        "criteria": []
+      },
+      {
+        "heading": "Additional information",
+        "text": "European Water Label Scheme: Water efficiency label\nThe European Water Label is a scheme initiated by bathroom manufacturers across the globe and it provides a\ndatabase of bathroom products of different levels of water efficiency. It includes products by multiple\nEuropean bathroom manufacturers and can help project teams identify products appropriate for their\nspecifications.\nUseful guidance\nThe following list of documents may be useful:\n– BRE Global. SD129: Certification and listing of low flush WC appliances. 2008.\n– BS 6465-3:2006. Sanitary installations. Code of practice for the selection, installation and maintenance of\nsanitary and associated appliances. BSI; 2006.\n– Communities and Local Government. Waterwise: Water efficiency calculator for new dwellings [Internet].\n2009. Available from: www.waterwise.org.uk\n– Entec UK Limited. BD 2683: Assessing the costs and benefits of improvements to the water efficiency of\nnew non-household buildings - final research report. Department for Communities and Local Government;\n2010.\n– Environment Agency. Conserving water in buildings: a practical guide. 2007.\n– Market Transformation Programme. BNWAT07: Baths - water efficiency performance tests (version 2.0).\n2007.\n– Market Transformation Programme. BNWAT23: Reliability of information on water consumption of\nappliances (version 1). 2007.\n– Market Transformation Programme. Sustainable products 2006: policy analysis and projections. Defra;\n2006.\n– Waggett R, Arotsky C. CIRIA W10 Key Performance Indicators for water use in hotels. CIRIA; 2006.\n– Waggett R, Arotsky C. CIRIA W11 Key Performance Indicators for water use in offices. CIRIA; 2006.\n– Water UK. Waste macerators - the impact on sewers: 2009.\n– BRE Global. SD175: Certification and listing of water efficient baths. 2008.\n– Water efficient product labelling scheme: www.water-efficiencylabel.org.uk",
+        "criteria": []
+      }
+    ],
+    "tables": [
+      {
+        "id": "L2_T1",
+        "bbox": [
+          107.6,
+          590.1,
+          524.5,
+          654.4
+        ],
+        "col_count": 5,
+        "rows": [
+          [
+            "",
+            "Fully fitted",
+            "Simple\nbuilding",
+            "Shell and core",
+            "Shell only"
+          ],
+          [
+            "Applicable assessment criteria",
+            "All",
+            "All",
+            "All",
+            "None"
+          ],
+          [
+            "Assessment type specific\nnotes",
+            "None",
+            "None",
+            "See ref 1.0 and\n1.1",
+            "See ref 1.2"
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          223
+        ]
+      },
+      {
+        "id": "L2_T2",
+        "bbox": [
+          107.6,
+          708.6,
+          524.5,
+          747.4
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Assessment type specific",
+            null
+          ],
+          [
+            "1.0",
+            "Components to be included as a minimum:\n– WCs\n– Wash-hand basin taps\n– Showers\n– Urinals\n– Kitchen taps: kitchenette\nIf the developer is not installing some of these, use the baseline values for any unknown\ncomponents.\nAll water-consuming components and greywater or rainwater systems specified and installed\nby the developer are assessed.\nComponents not listed above and located within tenant areas that are not specified by the\ndeveloper, but will be specified by the tenant, do not need to be assessed.\nIn cases where the end client is known and they make a commitment to specify and install\nspecific water-consuming components, assess the issue based on the relevant information."
+          ],
+          [
+            "1.1",
+            "Where components are not specified and installed by the developer but by the tenant, the\nminimum standard will not prevent the assessment from achieving a BREEAM rating."
+          ],
+          [
+            "1.2",
+            "Minimum standard is not applicable."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          223,
+          224
+        ],
+        "split_rows_merged": 1
+      },
+      {
+        "id": "L3_T2",
+        "bbox": [
+          107.6,
+          293.8,
+          524.4,
+          489.4
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Building type specific",
+            null
+          ],
+          [
+            "2.0",
+            "Healthcare Components in clinical areas may be omitted. Clinical areas refer to all areas with\na scrub-up trough, clinical sink or clinical basin. This is not an exhaustive list and guidance\nshould always be sought from the appropriate professional, to ascertain areas of exemption\nspecific to infection control and other considerations. Appropriate professionals could include\na health authorities infection control officer or a client infection control representative or\nequivalent.\nAlthough exempt, HTM 07-04(154) contains guidance on water savings from medical-related\nactivities. Furthermore, in some cases, the use of water efficient fittings and appliances may\nnot be appropriate to the needs of the patient, and inappropriate specification may adversely\naffect the incidence and propagation of infections. In such instances, the assessor will need to\nconfirm with BRE Global whether components from the relevant building areas are exempt.\nThe design team should also consult NHS guidelines concerning appropriate selection of\nsanitary fittings and fixtures and the control of legionella, including HTM 04-01(155)."
+          ],
+          [
+            "2.1",
+            "Healthcare In cases where none of the water components and fittings can be assessed on the\nbasis of clinical requirements, the minimum standard is not applicable."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          224
+        ]
+      },
+      {
+        "id": "L3_T3",
+        "bbox": [
+          107.6,
+          644.1,
+          524.4,
+          763.9
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "No. of BREEAM credits",
+            "% improvement"
+          ],
+          [
+            "1",
+            "12.5%"
+          ],
+          [
+            "2",
+            "25%"
+          ],
+          [
+            "3",
+            "40%"
+          ],
+          [
+            "4",
+            "50%"
+          ],
+          [
+            "5",
+            "55%"
+          ],
+          [
+            "1 Exemplary performance credit",
+            "65%"
+          ],
+          [
+            "For some building types an alternative approach to compliance must be used to award credits (for further\ninformation please refer to Methodology on the next page and the BREEAM Wat 01 calculator).",
+            null
+          ]
+        ],
+        "caption": "Table 8.1 BREEAM credits available for percentage improvement over baseline building water consumption",
+        "pages": [
+          224
+        ]
+      },
+      {
+        "id": "L5_T1",
+        "bbox": [
+          107.6,
+          482.1,
+          523.6,
+          625.9
+        ],
+        "col_count": 4,
+        "rows": [
+          [
+            "",
+            "Greywater and rainwater level achieved (see Water efficient consumption\nlevels by component type on the next page)",
+            null,
+            null
+          ],
+          [
+            "",
+            "-",
+            "Level 4",
+            "Level 5"
+          ],
+          [
+            "Overall\ncomponent\nlevel",
+            "",
+            null,
+            null
+          ],
+          [
+            "Baseline",
+            "0 credits",
+            "1 credit",
+            "2 credits"
+          ],
+          [
+            "Level 1",
+            "1 credit",
+            "2 credits",
+            "3 credits"
+          ],
+          [
+            "Level 2",
+            "2 credits",
+            "3 credits",
+            "4 credits"
+          ],
+          [
+            "Level 3 or 4",
+            "3 credits",
+            "4 credits",
+            "5 credits"
+          ],
+          [
+            "Level 5",
+            "4 credits",
+            "5 credits",
+            "5 credits"
+          ]
+        ],
+        "caption": "Table 8.2 BREEAM credits based on overall performance level",
+        "pages": [
+          226
+        ]
+      },
+      {
+        "id": "L6_T1",
+        "bbox": [
+          107.6,
+          266.1,
+          524.4,
+          757.9
+        ],
+        "col_count": 8,
+        "rows": [
+          [
+            "Component",
+            "Performance levels (quoted numbers are minimum performance required to\nachieve the level)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "Base",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "Unit"
+          ],
+          [
+            "WC",
+            "6",
+            "4.5",
+            "4",
+            "3.75",
+            "3.5",
+            "3",
+            "Effective\nflush volume\n(litres) (see\nDefinitions\non page 231)"
+          ],
+          [
+            "Wash-hand\nbasin taps",
+            "10",
+            "8",
+            "6",
+            "5",
+            "4",
+            "3",
+            "litres/min"
+          ],
+          [
+            "Showers",
+            "12",
+            "10",
+            "8",
+            "6",
+            "5",
+            "3.50",
+            "litres/min"
+          ],
+          [
+            "Baths",
+            "200",
+            "180",
+            "160",
+            "140",
+            "120",
+            "100",
+            "litres"
+          ],
+          [
+            "Urinal (2 or\nmore urinals)",
+            "7.50",
+            "6",
+            "3",
+            "1.50",
+            "0.75",
+            "0",
+            "litres/bowl/\nhour"
+          ],
+          [
+            "Urinal (1 urinal\nonly)",
+            "10",
+            "8",
+            "4",
+            "2",
+            "1",
+            "0",
+            "litres/bowl/\nhour"
+          ],
+          [
+            "Greywater and\nrainwater\nsystem",
+            "0%",
+            "0%",
+            "0%",
+            "25%",
+            "50%",
+            "75%",
+            "% of WC or\nurinal\nflushing\ndemand met\nusing\nrecycled non-\npotable\nwater"
+          ],
+          [
+            "Kitchen tap:\nkitchenette",
+            "10",
+            "8",
+            "7",
+            "6",
+            "5",
+            "5",
+            "litres/min"
+          ],
+          [
+            "Kitchen taps:\nrestaurant (pre-\nrinse nozzles\nonly)",
+            "10.30",
+            "9",
+            "8.30",
+            "7.30",
+            "6.30",
+            "6",
+            "litres/min"
+          ],
+          [
+            "Domestic sized\ndishwashers",
+            "17",
+            "13",
+            "13",
+            "12",
+            "11",
+            "10",
+            "litres/cycle"
+          ],
+          [
+            "Domestic sized\nwashing\nmachines",
+            "90",
+            "60",
+            "50",
+            "40",
+            "35",
+            "30",
+            "litres/use"
+          ],
+          [
+            "Waste disposal\nunit",
+            "17",
+            "17",
+            "0",
+            "0",
+            "0",
+            "0",
+            "litres/min"
+          ],
+          [
+            "Commercial\nsized",
+            "8\nBase",
+            "7\n1",
+            "6\n2",
+            "5\n3",
+            "4\n4",
+            "3\n5",
+            "litres/rack\nUnit"
+          ],
+          [
+            "dishwashers",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Commercial or\nindustrial sized\nwashing\nmachines",
+            "14",
+            "12",
+            "10",
+            "7.50",
+            "5",
+            "4.50",
+            "litres/kg"
+          ]
+        ],
+        "caption": "Table 8.3 Water efficient consumption levels by component type",
+        "pages": [
+          227,
+          228
+        ],
+        "split_rows_merged": 1
+      },
+      {
+        "id": "L7_T2",
+        "bbox": [
+          107.6,
+          349.3,
+          524.5,
+          752.6
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Domestic\ncomponent",
+            "Data requirements"
+          ],
+          [
+            "WCs",
+            "Actual maximum or, where dual-flush, effective flush volume in litres/use."
+          ],
+          [
+            "Urinals",
+            "Flush volume in litres/use for single-use flush urinals. For cistern-fed systems, the\nflushing frequency/hour and cistern capacity in litres."
+          ],
+          [
+            "Taps",
+            "Flow rate of each tap, at full flow rate in litres per minute measured at a dynamic\npressure:\nFor high pressure (Type 1) taps 3 ± 0.2 bar (0.3 ± 0.02 MPa)\nOR\nFor low pressure (Type 2) taps 0.1 ± 0.02 bar (0.01 ± 0.002 MPa)\n(BS EN 200:2008, Sanitary tapware, Single taps and combination taps for supply\nsystems of type 1 and 2. General technical specifications).\nThis includes any reductions achieved with flow restrictions."
+          ],
+          [
+            "Showers",
+            "Flow rate of each shower at the outlet using cold water (T 30˚C), in litres per minute\nmeasured at a dynamic pressure:\n3 ± 0.2 bar (0.3 ± 0.02 MPa) for high pressure (Type 1) supply systems\nOR\n0.1 ± 0.05 bar (0.01 ± 0.005 MPa) for low pressure (Type 2) supply systems (BS EN\n1112:2008(162))."
+          ],
+          [
+            "Kitchen taps",
+            "Maximum flow rate litres/minute."
+          ],
+          [
+            "Baths",
+            "Capacity to overflow in litres. Taps on baths should not be included in the\ncalculation, as the water consumption from bath taps is taken into account in the\nuse factor for baths. The calculation of water consumption for baths assumes 40%\nof the capacity to the overflow. This is to reflect that:\n1. Users tend not to fill the bath to overflow\n2. The displacement effect the user has on the actual volume of water required\nfor a bath."
+          ],
+          [
+            "Dishwasher",
+            "Litres/cycle for domestic applications or appliances or litres/rack for commercial\napplications or appliances."
+          ],
+          [
+            "Washing\nmachine",
+            "Litres/use for domestic applications (for a typical wash cycle) or appliances or\nlitres/kg for commercial applications or appliances, e.g. in hotels."
+          ],
+          [
+            "Waste disposal\nunit",
+            "Flow rate in litres/minute."
+          ]
+        ],
+        "caption": "Table 8.4 Data requirements for each domestic component type",
+        "pages": [
+          228
+        ]
+      },
+      {
+        "id": "L10_T1",
+        "bbox": [
+          107.6,
+          386.9,
+          524.5,
+          638.6
+        ],
+        "col_count": 3,
+        "rows": [
+          [
+            "Criteria",
+            "Interim design stage",
+            "Final post-construction stage"
+          ],
+          [
+            "All",
+            "The relevant sections or clauses of the\nbuilding specification, design drawings\nor schedules confirming the number,\nspecification and water consumption of\nall water consuming components.\nA completed copy of the BREEAM\nWat 01 calculator tool.\nWhere specific products are specified,\nmanufacturer’s literature, EU Energy\nLabel or European Unified Water Label\ninformation must be provided to\nsupport the water consumption values\nused.\nTechnical details for blackwater,\ngreywater, or rainwater collection\nsystems, where specified.\nCalculations e.g., relating the flow rate\nfor push and automatic shut off taps or\nfor blackwater, greywater, or rainwater\ncollection systems.",
+            "Final construction drawings or\nsanitaryware schedule to confirm the\nnumber and type of water consuming\ncomponents installed.\nA completed copy of the BREEAM\nWat 01 calculator tool.\nAssessor site inspection report with\nphotographic evidence or proof of\npurchase such as purchase orders to\nconfirm that the fittings have been\ninstalled as specified.\nCopy of the manufacturer’s product\ndetails, EU Energy Label or European\nWater Label to confirm water\nconsumption for all installed products.\nTechnical details and calculations for\ninstalled blackwater, greywater, or\nrainwater collection systems."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          231
+        ]
+      }
+    ],
+    "xrefs": [
+      "Table 8.1",
+      "see Table 8.1",
+      "see Table 8.3",
+      "Table 8.3",
+      "see Table 8.2",
+      "Table 8.2",
+      "Table 8.4",
+      "see Methodology on the next page) to compare the water consumption",
+      "see Methodology on the next page)",
+      "see Definitions on page 231) is specified, use its yield in L/person/day to",
+      "see Definitions on page 231)",
+      "Wat 01 calculator to assess the efficiency of the domestic water-con",
+      "Wat 01 method (see Methodology on the next page) to compare the wate",
+      "Wat 01 method (see Methodology on the next page)",
+      "Wat 01 calculator",
+      "Wat 01 calculator defines the building types and activity areas for",
+      "Wat 01 method",
+      "Wat 01 calculator for the building types which",
+      "Wat 01 credits are targeted, the performance of a particular buildin",
+      "Wat 01 calculator before committing to a particular specification",
+      "Wat 01 method, the BREEAM Wat 01 calculator defines the",
+      "Wat 01 calculator, calculate the water consumption of push and autom",
+      "Wat 01 calculator for new non-domestic buildings",
+      "Wat 01 calculator is a tool for the assessment of water efficiency i",
+      "on page 231",
+      "on page 236"
+    ]
+  },
+  {
+    "code": "Wat02",
+    "title": "Water monitoring",
+    "manual_pages": [
+      234,
+      237
+    ],
+    "raw_text": "1\n1\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards\nAim\nTo reduce the consumption of potable water in new buildings through the effective management and\nmonitoring of water consumption.\nValue\n– Increase awareness of water usage within the building.\n– Identify and monitor large water uses and changed consumption levels to improve management and\nmaintenance as well as to encourage reductions in unnecessary consumption.\n– Reduce costs related to water consumption.\n– Manage water demand for different building areas and uses.\n– Reduce the need for large-scale increases in water infrastructure in the future which are likely to increase\ncosts over time as well as impact on our rural and urban landscapes and communities.\nContext\nDue to increasing population densities and relatively high levels of water consumption, much of the UK is at\nrisk of water shortages which are likely to increase over time as rainfall patterns due to climate change.\nReducing water consumption in the UK is, therefore, crucial.\nSub-metering water consumption means that water consumption can be better accounted for. Large water\nconsumers can be identified with the aim of encouraging the reduction in water use where practical.\nMoreover, changes in consumption can be identified and dealt with as appropriate, thereby minimising risks of\nsystems failures which can have costly and disruptive consequences.\nAssessment scope\n[TABLE L13_T1]\nSpecific notes\n[TABLE L14_T1]\n[TABLE L14_T2]\nAssessment criteria\nOne credit\n1\nSpecify a water meter on the mains water supply to each building. This includes instances where water is\nsupplied via a borehole or other private source.\n2\nFor water-consuming plant or building areas consuming 10% or more of the building’s total water\ndemand:\n2.a\nFit easily accessible sub-meters OR\n2.b\nInstall water monitoring equipment integral to the plant or area.\n3\nFor each meter (main and sub):\n3.a\nInstall a pulsed or other open protocol communication output AND\n3.b\nConnect it to an appropriate utility monitoring and management system, e.g. a building\nmanagement system (BMS), for the monitoring of water consumption. If there is no BMS system in\noperation at post-construction stage, award credits provided that the system used enables\nconnection when the BMS becomes operational.\n4\nIn buildings with swimming pools, or large water tanks and aquariums, fit separate sub-meters on the\nwater supply of the above and any associated changing facilities (toilets, showers etc.) irrespective of their\nwater consumption levels.\n5\nIn buildings containing laboratories, fit a separate water meter on the water supply to any process or\ncooling loop for ‘plumbed-in’ laboratory process equipment, irrespective of their water consumption\nlevels.\nAdditionally, for those carrying out a post occupancy evaluation:\n6\nThe water monitoring strategy used enables the identification of all water consumption for sanitary uses as\nassessed under Wat 01 (litres/person/day).\nMethodology\nSites with multiple units or buildings\nSee criterion 2 on the previous page.\nOn sites with multiple units or buildings, e.g. shopping centres, industrial units, retail parks etc. fit separate\nsub-meters on the water supply to the following areas (where present):\n– Each individual unit supplied with water\n– Common areas (covering the supply to toilet blocks)\n– Service areas (covering the supply to outlets within storage, delivery, waste disposal areas etc.)\n– Ancillary or separate buildings to the main development with water supply.\nNo water supply to the building or unit – Extensions to existing buildings\nSee criterion 2.a on the previous page\nIf no new water supply is installed, identify in the assessment the facilities most likely to be used by the\noccupants and visitors of the assessed building (e.g. specific facilities provided in a nearby accessible building).\nIn this case, provide the following in this building:\n1.\nA water meter for the mains water supply\n2.\nSub-meters for large water-consuming plant or facilities, e.g. evaporative cooling, swimming pool etc.\n(where present).\nThe meters provided must have a pulsed output or connection to existing BMS in accordance with the\nassessment criteria.\nNo additional monitoring benefit from sub-metering\nSee criterion 2 on the previous page.\nWhere the assessor confirms there is no additional monitoring benefit resulting from the installation of sub-\nmeters, the requirement does not apply in the following cases:\n– The building has only one or two small sources of water demand (e.g. an office with sanitary fittings and a\nsmall kitchen).\n– The building has two sources of water demand, one significantly larger than the other, and the water\nconsumption for the larger demand is likely to mask the smaller one.\nEvidence\n[TABLE L15_T1]\nDefinitions\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nMeter outputs\nExamples include pulsed outputs and other open protocol communication outputs, such as Modbus.\nPatient areas\nAreas of the building used mainly by inpatients (e.g. wards, dayrooms etc.).\nStaff areas\nAreas of the building used mainly by staff (e.g. offices, meeting rooms, staff rooms) and medical areas where\npatients are admitted but that do not require restricted environmental conditions (e.g. consulting rooms,\nphysiotherapy etc.).\nUtility monitoring and management system\nExamples include automatic meter reading systems and building energy management systems. Automatic\nmonitoring and targeting is an example of a management tool that includes automatic meter reading and\ndata management.\nAdditional information\nNone.",
+    "normalized_text": "1\n1\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards\nAim\nTo reduce the consumption of potable water in new buildings through the effective management and\nmonitoring of water consumption.\nValue\n– Increase awareness of water usage within the building.\n– Identify and monitor large water uses and changed consumption levels to improve management and\nmaintenance as well as to encourage reductions in unnecessary consumption.\n– Reduce costs related to water consumption.\n– Manage water demand for different building areas and uses.\n– Reduce the need for large-scale increases in water infrastructure in the future which are likely to increase\ncosts over time as well as impact on our rural and urban landscapes and communities.\nContext\nDue to increasing population densities and relatively high levels of water consumption, much of the UK is at\nrisk of water shortages which are likely to increase over time as rainfall patterns due to climate change.\nReducing water consumption in the UK is, therefore, crucial.\nSub-metering water consumption means that water consumption can be better accounted for. Large water\nconsumers can be identified with the aim of encouraging the reduction in water use where practical.\nMoreover, changes in consumption can be identified and dealt with as appropriate, thereby minimising risks of\nsystems failures which can have costly and disruptive consequences.\nAssessment scope\n[TABLE L13_T1]\nSpecific notes\n[TABLE L14_T1]\n[TABLE L14_T2]\nAssessment criteria\nOne credit\n1\nSpecify a water meter on the mains water supply to each building. This includes instances where water is\nsupplied via a borehole or other private source.\n2\nFor water-consuming plant or building areas consuming 10% or more of the building’s total water\ndemand:\n2.a\nFit easily accessible sub-meters OR\n2.b\nInstall water monitoring equipment integral to the plant or area.\n3\nFor each meter (main and sub):\n3.a\nInstall a pulsed or other open protocol communication output AND\n3.b\nConnect it to an appropriate utility monitoring and management system, e.g. a building\nmanagement system (BMS), for the monitoring of water consumption. If there is no BMS system in\noperation at post-construction stage, award credits provided that the system used enables\nconnection when the BMS becomes operational.\n4\nIn buildings with swimming pools, or large water tanks and aquariums, fit separate sub-meters on the\nwater supply of the above and any associated changing facilities (toilets, showers etc.) irrespective of their\nwater consumption levels.\n5\nIn buildings containing laboratories, fit a separate water meter on the water supply to any process or\ncooling loop for ‘plumbed-in’ laboratory process equipment, irrespective of their water consumption\nlevels.\nAdditionally, for those carrying out a post occupancy evaluation:\n6\nThe water monitoring strategy used enables the identification of all water consumption for sanitary uses as\nassessed under Wat 01 (litres/person/day).\nMethodology\nSites with multiple units or buildings\nSee criterion 2 on the previous page.\nOn sites with multiple units or buildings, e.g. shopping centres, industrial units, retail parks etc. fit separate\nsub-meters on the water supply to the following areas (where present):\n– Each individual unit supplied with water\n– Common areas (covering the supply to toilet blocks)\n– Service areas (covering the supply to outlets within storage, delivery, waste disposal areas etc.)\n– Ancillary or separate buildings to the main development with water supply.\nNo water supply to the building or unit – Extensions to existing buildings\nSee criterion 2.a on the previous page\nIf no new water supply is installed, identify in the assessment the facilities most likely to be used by the\noccupants and visitors of the assessed building (e.g. specific facilities provided in a nearby accessible building).\nIn this case, provide the following in this building:\n1.\nA water meter for the mains water supply\n2.\nSub-meters for large water-consuming plant or facilities, e.g. evaporative cooling, swimming pool etc.\n(where present).\nThe meters provided must have a pulsed output or connection to existing BMS in accordance with the\nassessment criteria.\nNo additional monitoring benefit from sub-metering\nSee criterion 2 on the previous page.\nWhere the assessor confirms there is no additional monitoring benefit resulting from the installation of sub-\nmeters, the requirement does not apply in the following cases:\n– The building has only one or two small sources of water demand (e.g. an office with sanitary fittings and a\nsmall kitchen).\n– The building has two sources of water demand, one significantly larger than the other, and the water\nconsumption for the larger demand is likely to mask the smaller one.\nEvidence\n[TABLE L15_T1]\nDefinitions\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nMeter outputs\nExamples include pulsed outputs and other open protocol communication outputs, such as Modbus.\nPatient areas\nAreas of the building used mainly by inpatients (e.g. wards, dayrooms etc.).\nStaff areas\nAreas of the building used mainly by staff (e.g. offices, meeting rooms, staff rooms) and medical areas where\npatients are admitted but that do not require restricted environmental conditions (e.g. consulting rooms,\nphysiotherapy etc.).\nUtility monitoring and management system\nExamples include automatic meter reading systems and building energy management systems. Automatic\nmonitoring and targeting is an example of a management tool that includes automatic meter reading and\ndata management.\nAdditional information\nNone.",
+    "subsections": [
+      {
+        "heading": null,
+        "text": "1\n1\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nMinimum standards",
+        "criteria": []
+      },
+      {
+        "heading": "Aim",
+        "text": "To reduce the consumption of potable water in new buildings through the effective management and\nmonitoring of water consumption.",
+        "criteria": []
+      },
+      {
+        "heading": "Value",
+        "text": "– Increase awareness of water usage within the building.\n– Identify and monitor large water uses and changed consumption levels to improve management and\nmaintenance as well as to encourage reductions in unnecessary consumption.\n– Reduce costs related to water consumption.\n– Manage water demand for different building areas and uses.\n– Reduce the need for large-scale increases in water infrastructure in the future which are likely to increase\ncosts over time as well as impact on our rural and urban landscapes and communities.",
+        "criteria": []
+      },
+      {
+        "heading": "Context",
+        "text": "Due to increasing population densities and relatively high levels of water consumption, much of the UK is at\nrisk of water shortages which are likely to increase over time as rainfall patterns due to climate change.\nReducing water consumption in the UK is, therefore, crucial.\nSub-metering water consumption means that water consumption can be better accounted for. Large water\nconsumers can be identified with the aim of encouraging the reduction in water use where practical.\nMoreover, changes in consumption can be identified and dealt with as appropriate, thereby minimising risks of\nsystems failures which can have costly and disruptive consequences.",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment scope",
+        "text": "[TABLE L13_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Specific notes",
+        "text": "[TABLE L14_T1]\n[TABLE L14_T2]",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment criteria",
+        "text": "One credit\n1\nSpecify a water meter on the mains water supply to each building. This includes instances where water is\nsupplied via a borehole or other private source.\n2\nFor water-consuming plant or building areas consuming 10% or more of the building’s total water\ndemand:\n2.a\nFit easily accessible sub-meters OR\n2.b\nInstall water monitoring equipment integral to the plant or area.\n3\nFor each meter (main and sub):\n3.a\nInstall a pulsed or other open protocol communication output AND\n3.b\nConnect it to an appropriate utility monitoring and management system, e.g. a building\nmanagement system (BMS), for the monitoring of water consumption. If there is no BMS system in\noperation at post-construction stage, award credits provided that the system used enables\nconnection when the BMS becomes operational.\n4\nIn buildings with swimming pools, or large water tanks and aquariums, fit separate sub-meters on the\nwater supply of the above and any associated changing facilities (toilets, showers etc.) irrespective of their\nwater consumption levels.\n5\nIn buildings containing laboratories, fit a separate water meter on the water supply to any process or\ncooling loop for ‘plumbed-in’ laboratory process equipment, irrespective of their water consumption\nlevels.\nAdditionally, for those carrying out a post occupancy evaluation:\n6\nThe water monitoring strategy used enables the identification of all water consumption for sanitary uses as\nassessed under Wat 01 (litres/person/day).",
+        "criteria": [
+          {
+            "id": "1",
+            "group": "One credit",
+            "text": "Specify a water meter on the mains water supply to each building. This includes instances where water is\nsupplied via a borehole or other private source."
+          },
+          {
+            "id": "2",
+            "group": "One credit",
+            "text": "For water-consuming plant or building areas consuming 10% or more of the building’s total water\ndemand:"
+          },
+          {
+            "id": "2.a",
+            "group": "One credit",
+            "text": "Fit easily accessible sub-meters OR"
+          },
+          {
+            "id": "2.b",
+            "group": "One credit",
+            "text": "Install water monitoring equipment integral to the plant or area."
+          },
+          {
+            "id": "3",
+            "group": "One credit",
+            "text": "For each meter (main and sub):"
+          },
+          {
+            "id": "3.a",
+            "group": "One credit",
+            "text": "Install a pulsed or other open protocol communication output AND"
+          },
+          {
+            "id": "3.b",
+            "group": "One credit",
+            "text": "Connect it to an appropriate utility monitoring and management system, e.g. a building\nmanagement system (BMS), for the monitoring of water consumption. If there is no BMS system in\noperation at post-construction stage, award credits provided that the system used enables\nconnection when the BMS becomes operational."
+          },
+          {
+            "id": "4",
+            "group": "One credit",
+            "text": "In buildings with swimming pools, or large water tanks and aquariums, fit separate sub-meters on the\nwater supply of the above and any associated changing facilities (toilets, showers etc.) irrespective of their\nwater consumption levels."
+          },
+          {
+            "id": "5",
+            "group": "One credit",
+            "text": "In buildings containing laboratories, fit a separate water meter on the water supply to any process or\ncooling loop for ‘plumbed-in’ laboratory process equipment, irrespective of their water consumption\nlevels.\nAdditionally, for those carrying out a post occupancy evaluation:"
+          },
+          {
+            "id": "6",
+            "group": "One credit",
+            "text": "The water monitoring strategy used enables the identification of all water consumption for sanitary uses as\nassessed under Wat 01 (litres/person/day)."
+          }
+        ]
+      },
+      {
+        "heading": "Methodology",
+        "text": "Sites with multiple units or buildings\nSee criterion 2 on the previous page.\nOn sites with multiple units or buildings, e.g. shopping centres, industrial units, retail parks etc. fit separate\nsub-meters on the water supply to the following areas (where present):\n– Each individual unit supplied with water\n– Common areas (covering the supply to toilet blocks)\n– Service areas (covering the supply to outlets within storage, delivery, waste disposal areas etc.)\n– Ancillary or separate buildings to the main development with water supply.\nNo water supply to the building or unit – Extensions to existing buildings\nSee criterion 2.a on the previous page\nIf no new water supply is installed, identify in the assessment the facilities most likely to be used by the\noccupants and visitors of the assessed building (e.g. specific facilities provided in a nearby accessible building).\nIn this case, provide the following in this building:\n1.\nA water meter for the mains water supply\n2.\nSub-meters for large water-consuming plant or facilities, e.g. evaporative cooling, swimming pool etc.\n(where present).\nThe meters provided must have a pulsed output or connection to existing BMS in accordance with the\nassessment criteria.\nNo additional monitoring benefit from sub-metering\nSee criterion 2 on the previous page.\nWhere the assessor confirms there is no additional monitoring benefit resulting from the installation of sub-\nmeters, the requirement does not apply in the following cases:\n– The building has only one or two small sources of water demand (e.g. an office with sanitary fittings and a\nsmall kitchen).\n– The building has two sources of water demand, one significantly larger than the other, and the water\nconsumption for the larger demand is likely to mask the smaller one.",
+        "criteria": []
+      },
+      {
+        "heading": "Evidence",
+        "text": "[TABLE L15_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Definitions",
+        "text": "Clinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nMeter outputs\nExamples include pulsed outputs and other open protocol communication outputs, such as Modbus.\nPatient areas\nAreas of the building used mainly by inpatients (e.g. wards, dayrooms etc.).\nStaff areas\nAreas of the building used mainly by staff (e.g. offices, meeting rooms, staff rooms) and medical areas where\npatients are admitted but that do not require restricted environmental conditions (e.g. consulting rooms,\nphysiotherapy etc.).\nUtility monitoring and management system\nExamples include automatic meter reading systems and building energy management systems. Automatic\nmonitoring and targeting is an example of a management tool that includes automatic meter reading and\ndata management.",
+        "criteria": []
+      },
+      {
+        "heading": "Additional information",
+        "text": "None.",
+        "criteria": []
+      }
+    ],
+    "tables": [
+      {
+        "id": "L13_T1",
+        "bbox": [
+          107.6,
+          619.4,
+          524.5,
+          683.6
+        ],
+        "col_count": 5,
+        "rows": [
+          [
+            "",
+            "Fully\nfitted",
+            "Simple\nbuilding",
+            "Shell and core",
+            "Shell\nonly"
+          ],
+          [
+            "Applicable assessment criteria",
+            "All",
+            "1, 2, 3.a, 4–6",
+            "All",
+            "1 and 3–5"
+          ],
+          [
+            "Assessment type specific\nnotes",
+            "None",
+            "None",
+            "See ref 1.0 and 1.1",
+            "See ref 1.2"
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          234
+        ]
+      },
+      {
+        "id": "L14_T1",
+        "bbox": [
+          107.6,
+          124.2,
+          524.4,
+          226.1
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Assessment type specific",
+            null
+          ],
+          [
+            "1.0",
+            "Demonstrate compliance with criterion 2 below for water-consuming plant or building areas\nidentifiable by the developer. Do not assess water-consuming plant or building areas to be\nadded or installed by the tenant. Where no water-consuming plants are installed by the\ndeveloper, the credit is awarded based on the rest of the criteria."
+          ],
+          [
+            "1.1",
+            "Minimum standard is applicable, however the assessor may, for speculative assessments,\nsubject to their justification and evidence from the design team, seek review by BRE."
+          ],
+          [
+            "1.2",
+            "Minimum standard is not applicable."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          235
+        ]
+      },
+      {
+        "id": "L14_T2",
+        "bbox": [
+          107.6,
+          240.5,
+          524.4,
+          392.6
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Building type specific",
+            null
+          ],
+          [
+            "2.0",
+            "For healthcare buildings and sites with multiple departments, e.g. large health centres or acute\nhospitals, fit separate sub-meters on the supply to the following areas where present:\n– Staff and public areas\n– Clinical areas and wards\n– Letting areas: on the water supply to each tenant unit\n– Laundries\n– Main production kitchen\n– Hydrotherapy pools\n– Laboratories\n– Central sterile supply department (CSSD), hospital sterilisation and disinfection unit (HSDU),\npathology, pharmacy, mortuary and any other major process water use\n– Supplementary supply of water from a cold water tank."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          235
+        ]
+      },
+      {
+        "id": "L15_T1",
+        "bbox": [
+          107.6,
+          581.9,
+          524.5,
+          713.6
+        ],
+        "col_count": 3,
+        "rows": [
+          [
+            "Criteria",
+            "Interim design stage",
+            "Final post-construction stage"
+          ],
+          [
+            "All",
+            "The relevant sections or clauses of the\nbuilding specification or contract.\nDesign drawings or metering\nschematics.\nCalculations and justification relating to\nselection of significant water demands.",
+            "Assessor’s site inspection report and\nphotographic evidence.\nOR\nFinal construction drawings or\nequivalent.\nWhere applicable, manufacturer’s\nproduct details to confirm pulsed\noutput.\nCalculations and justification relating to\nselection of significant water demands."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          236
+        ]
+      }
+    ],
+    "xrefs": []
+  },
+  {
+    "code": "Wat03",
+    "title": "Water leak detection",
+    "manual_pages": [
+      238,
+      240
+    ],
+    "raw_text": "2\n2\n2\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards\nAim\nTo reduce the consumption of potable water in new buildings through minimising wastage due to water leaks.\nValue\n– Reduce potable water wastage associated with leaks.\n– Minimise damage, costs and disruption arising from water leaks.\n– Reduce costs related to water consumption.\nContext\nWater leakage within customers’ properties represents 6% of the total public water supply in England and\nWales(166). This is equivalent to 25% of the total water leakage, with the rest being attributed to water\ndistribution systems of the supply companies. Water leaks in building systems are responsible for major\ndamage to property resulting in major disruption and costs. It is, therefore, important to ensure that water\nleaks are detected and controlled on a building level as early as possible.\nAssessment scope\n[TABLE L17_T1]\nSpecific notes\n[TABLE L17_T2]\nAssessment criteria\nThis issue is split into two parts:\n– Leak detection system (one credit)\n– Flow control devices (one credit)\nOne credit – Leak detection system\n1\nInstall a leak detection system capable of detecting a major water leak:\n1.a\nOn the utilities water supply within the buildings, to detect any major leaks within the buildings\nAND\n1.b\nBetween the buildings and the utilities water supply, to detect any major leaks between the utilities\nsupply and the buildings under assessment.\n2\nThe leak detection system is:\n2.a\nA permanent automated water leak detection system that alerts the building occupants to the leak\nOR an inbuilt automated diagnostic procedure for detecting leaks\n2.b\nActivated when the flow of water passing through the water meter or data logger is at a flow rate\nabove a pre-set maximum for a pre-set period of time. This usually involves installing a system which\ndetects higher than normal flow rates at meters or sub-meters. It does not necessarily require a\nsystem that directly detects water leakage along part or the whole length of the water supply\nsystem\n2.c\nAble to identify different flow and therefore leakage rates, e.g. continuous, high or low level, over\nset time periods. Although high and low level leakage rates are not specified, the leak detection\nequipment installed must have the flexibility to distinguish between different flow rates to enable it\nto be programmed to suit the building type and owner's or occupier's usage patterns.\n2.d\nProgrammable to suit the owner's or occupier's water consumption criteria\n2.e\nWhere applicable, designed to avoid false alarms caused by normal operation of large water-\nconsuming plant such as chillers.\nWhere there is physically no space for a leak detection system between the utilities water meter and the\nbuilding, alternative solutions can be used, provided that a major leak can still be detected.\nOne credit – Flow control devices\n3\nInstall flow control devices that regulate the water supply to each WC area or sanitary facility according to\ndemand, in order to minimise undetected wastage and leaks from sanitary fittings and supply pipework.\nMethodology\nNo water supply to the building or unit\nWhere a project under assessment contains no installed fittings and therefore there is no water supply to the\nbuilding, identify and assess the facilities most likely to be used by the occupants and visitors of the assessed\nbuilding (e.g. specific facilities provided in a nearby accessible building).\nExtensions to existing buildings\nIf the water supply to the new extension is via the existing building then the water supply to the existing\nbuilding must be assessed against the criteria of this issue.\nUtilities water meters\nSee criterion 1 on the previous page.\nWhere there is a utilities water meter at the site or building boundary, it may be necessary to install a separate\nflow meter (or alternative measurement system) just after the utilities water meter to detect leaks. However, if\nthe water utilities company agrees to some form of leak detection being installed on their meter, this would\nalso be acceptable.\nEvidence\n[TABLE L19_T1]\nDefinitions\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nWC areas or facilities\nWC areas or facilities refer to the cold water supply to taps, WCs and urinals. The water supply system must\nnot allow the cold water to automatically switch off in the showers while the hot water is still running to\navoid scalding from hot water.\nAdditional information\nNone.",
+    "normalized_text": "2\n2\n2\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards\nAim\nTo reduce the consumption of potable water in new buildings through minimising wastage due to water leaks.\nValue\n– Reduce potable water wastage associated with leaks.\n– Minimise damage, costs and disruption arising from water leaks.\n– Reduce costs related to water consumption.\nContext\nWater leakage within customers’ properties represents 6% of the total public water supply in England and\nWales(166). This is equivalent to 25% of the total water leakage, with the rest being attributed to water\ndistribution systems of the supply companies. Water leaks in building systems are responsible for major\ndamage to property resulting in major disruption and costs. It is, therefore, important to ensure that water\nleaks are detected and controlled on a building level as early as possible.\nAssessment scope\n[TABLE L17_T1]\nSpecific notes\n[TABLE L17_T2]\nAssessment criteria\nThis issue is split into two parts:\n– Leak detection system (one credit)\n– Flow control devices (one credit)\nOne credit – Leak detection system\n1\nInstall a leak detection system capable of detecting a major water leak:\n1.a\nOn the utilities water supply within the buildings, to detect any major leaks within the buildings\nAND\n1.b\nBetween the buildings and the utilities water supply, to detect any major leaks between the utilities\nsupply and the buildings under assessment.\n2\nThe leak detection system is:\n2.a\nA permanent automated water leak detection system that alerts the building occupants to the leak\nOR an inbuilt automated diagnostic procedure for detecting leaks\n2.b\nActivated when the flow of water passing through the water meter or data logger is at a flow rate\nabove a pre-set maximum for a pre-set period of time. This usually involves installing a system which\ndetects higher than normal flow rates at meters or sub-meters. It does not necessarily require a\nsystem that directly detects water leakage along part or the whole length of the water supply\nsystem\n2.c\nAble to identify different flow and therefore leakage rates, e.g. continuous, high or low level, over\nset time periods. Although high and low level leakage rates are not specified, the leak detection\nequipment installed must have the flexibility to distinguish between different flow rates to enable it\nto be programmed to suit the building type and owner's or occupier's usage patterns.\n2.d\nProgrammable to suit the owner's or occupier's water consumption criteria\n2.e\nWhere applicable, designed to avoid false alarms caused by normal operation of large water-\nconsuming plant such as chillers.\nWhere there is physically no space for a leak detection system between the utilities water meter and the\nbuilding, alternative solutions can be used, provided that a major leak can still be detected.\nOne credit – Flow control devices\n3\nInstall flow control devices that regulate the water supply to each WC area or sanitary facility according to\ndemand, in order to minimise undetected wastage and leaks from sanitary fittings and supply pipework.\nMethodology\nNo water supply to the building or unit\nWhere a project under assessment contains no installed fittings and therefore there is no water supply to the\nbuilding, identify and assess the facilities most likely to be used by the occupants and visitors of the assessed\nbuilding (e.g. specific facilities provided in a nearby accessible building).\nExtensions to existing buildings\nIf the water supply to the new extension is via the existing building then the water supply to the existing\nbuilding must be assessed against the criteria of this issue.\nUtilities water meters\nSee criterion 1 on the previous page.\nWhere there is a utilities water meter at the site or building boundary, it may be necessary to install a separate\nflow meter (or alternative measurement system) just after the utilities water meter to detect leaks. However, if\nthe water utilities company agrees to some form of leak detection being installed on their meter, this would\nalso be acceptable.\nEvidence\n[TABLE L19_T1]\nDefinitions\nClinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nWC areas or facilities\nWC areas or facilities refer to the cold water supply to taps, WCs and urinals. The water supply system must\nnot allow the cold water to automatically switch off in the showers while the hot water is still running to\navoid scalding from hot water.\nAdditional information\nNone.",
+    "subsections": [
+      {
+        "heading": null,
+        "text": "2\n2\n2\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards",
+        "criteria": []
+      },
+      {
+        "heading": "Aim",
+        "text": "To reduce the consumption of potable water in new buildings through minimising wastage due to water leaks.",
+        "criteria": []
+      },
+      {
+        "heading": "Value",
+        "text": "– Reduce potable water wastage associated with leaks.\n– Minimise damage, costs and disruption arising from water leaks.\n– Reduce costs related to water consumption.",
+        "criteria": []
+      },
+      {
+        "heading": "Context",
+        "text": "Water leakage within customers’ properties represents 6% of the total public water supply in England and\nWales(166). This is equivalent to 25% of the total water leakage, with the rest being attributed to water\ndistribution systems of the supply companies. Water leaks in building systems are responsible for major\ndamage to property resulting in major disruption and costs. It is, therefore, important to ensure that water\nleaks are detected and controlled on a building level as early as possible.",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment scope",
+        "text": "[TABLE L17_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Specific notes",
+        "text": "[TABLE L17_T2]",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment criteria",
+        "text": "This issue is split into two parts:\n– Leak detection system (one credit)\n– Flow control devices (one credit)\nOne credit – Leak detection system\n1\nInstall a leak detection system capable of detecting a major water leak:\n1.a\nOn the utilities water supply within the buildings, to detect any major leaks within the buildings\nAND\n1.b\nBetween the buildings and the utilities water supply, to detect any major leaks between the utilities\nsupply and the buildings under assessment.\n2\nThe leak detection system is:\n2.a\nA permanent automated water leak detection system that alerts the building occupants to the leak\nOR an inbuilt automated diagnostic procedure for detecting leaks\n2.b\nActivated when the flow of water passing through the water meter or data logger is at a flow rate\nabove a pre-set maximum for a pre-set period of time. This usually involves installing a system which\ndetects higher than normal flow rates at meters or sub-meters. It does not necessarily require a\nsystem that directly detects water leakage along part or the whole length of the water supply\nsystem\n2.c\nAble to identify different flow and therefore leakage rates, e.g. continuous, high or low level, over\nset time periods. Although high and low level leakage rates are not specified, the leak detection\nequipment installed must have the flexibility to distinguish between different flow rates to enable it\nto be programmed to suit the building type and owner's or occupier's usage patterns.\n2.d\nProgrammable to suit the owner's or occupier's water consumption criteria\n2.e\nWhere applicable, designed to avoid false alarms caused by normal operation of large water-\nconsuming plant such as chillers.\nWhere there is physically no space for a leak detection system between the utilities water meter and the\nbuilding, alternative solutions can be used, provided that a major leak can still be detected.\nOne credit – Flow control devices\n3\nInstall flow control devices that regulate the water supply to each WC area or sanitary facility according to\ndemand, in order to minimise undetected wastage and leaks from sanitary fittings and supply pipework.",
+        "criteria": [
+          {
+            "id": "1",
+            "group": "One credit – Leak detection system",
+            "text": "Install a leak detection system capable of detecting a major water leak:"
+          },
+          {
+            "id": "1.a",
+            "group": "One credit – Leak detection system",
+            "text": "On the utilities water supply within the buildings, to detect any major leaks within the buildings\nAND"
+          },
+          {
+            "id": "1.b",
+            "group": "One credit – Leak detection system",
+            "text": "Between the buildings and the utilities water supply, to detect any major leaks between the utilities\nsupply and the buildings under assessment."
+          },
+          {
+            "id": "2",
+            "group": "One credit – Leak detection system",
+            "text": "The leak detection system is:"
+          },
+          {
+            "id": "2.a",
+            "group": "One credit – Leak detection system",
+            "text": "A permanent automated water leak detection system that alerts the building occupants to the leak\nOR an inbuilt automated diagnostic procedure for detecting leaks"
+          },
+          {
+            "id": "2.b",
+            "group": "One credit – Leak detection system",
+            "text": "Activated when the flow of water passing through the water meter or data logger is at a flow rate\nabove a pre-set maximum for a pre-set period of time. This usually involves installing a system which\ndetects higher than normal flow rates at meters or sub-meters. It does not necessarily require a\nsystem that directly detects water leakage along part or the whole length of the water supply\nsystem"
+          },
+          {
+            "id": "2.c",
+            "group": "One credit – Leak detection system",
+            "text": "Able to identify different flow and therefore leakage rates, e.g. continuous, high or low level, over\nset time periods. Although high and low level leakage rates are not specified, the leak detection\nequipment installed must have the flexibility to distinguish between different flow rates to enable it\nto be programmed to suit the building type and owner's or occupier's usage patterns."
+          },
+          {
+            "id": "2.d",
+            "group": "One credit – Leak detection system",
+            "text": "Programmable to suit the owner's or occupier's water consumption criteria"
+          },
+          {
+            "id": "2.e",
+            "group": "One credit – Leak detection system",
+            "text": "Where applicable, designed to avoid false alarms caused by normal operation of large water-\nconsuming plant such as chillers.\nWhere there is physically no space for a leak detection system between the utilities water meter and the\nbuilding, alternative solutions can be used, provided that a major leak can still be detected."
+          },
+          {
+            "id": "3",
+            "group": "One credit – Flow control devices",
+            "text": "Install flow control devices that regulate the water supply to each WC area or sanitary facility according to\ndemand, in order to minimise undetected wastage and leaks from sanitary fittings and supply pipework."
+          }
+        ]
+      },
+      {
+        "heading": "Methodology",
+        "text": "No water supply to the building or unit\nWhere a project under assessment contains no installed fittings and therefore there is no water supply to the\nbuilding, identify and assess the facilities most likely to be used by the occupants and visitors of the assessed\nbuilding (e.g. specific facilities provided in a nearby accessible building).\nExtensions to existing buildings\nIf the water supply to the new extension is via the existing building then the water supply to the existing\nbuilding must be assessed against the criteria of this issue.\nUtilities water meters\nSee criterion 1 on the previous page.\nWhere there is a utilities water meter at the site or building boundary, it may be necessary to install a separate\nflow meter (or alternative measurement system) just after the utilities water meter to detect leaks. However, if\nthe water utilities company agrees to some form of leak detection being installed on their meter, this would\nalso be acceptable.",
+        "criteria": []
+      },
+      {
+        "heading": "Evidence",
+        "text": "[TABLE L19_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Definitions",
+        "text": "Clinical areas\nAreas of the building in which medical functions are carried out that require specific restricted environmental\nconditions such as humidity, daylighting, temperature etc. (e.g. X-ray, operating department, delivery room\netc.).\nWC areas or facilities\nWC areas or facilities refer to the cold water supply to taps, WCs and urinals. The water supply system must\nnot allow the cold water to automatically switch off in the showers while the hot water is still running to\navoid scalding from hot water.",
+        "criteria": []
+      },
+      {
+        "heading": "Additional information",
+        "text": "None.",
+        "criteria": []
+      }
+    ],
+    "tables": [
+      {
+        "id": "L17_T1",
+        "bbox": [
+          107.6,
+          542.1,
+          524.1,
+          582.4
+        ],
+        "col_count": 5,
+        "rows": [
+          [
+            "",
+            "Fully fitted",
+            "Simple building",
+            "Shell and core",
+            "Shell only"
+          ],
+          [
+            "Applicable assessment criteria",
+            "All",
+            "All",
+            "All",
+            "1–2"
+          ],
+          [
+            "Assessment type specific notes",
+            "None",
+            "See ref 1.0 and 1.1",
+            "See ref 1.2",
+            "None"
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          238
+        ]
+      },
+      {
+        "id": "L17_T2",
+        "bbox": [
+          107.6,
+          636.5,
+          524.1,
+          738.4
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Assessment type specific",
+            null
+          ],
+          [
+            "1.0",
+            "As an alternative to criteria 1 and 2, install automatic excess flow valves at relevant locations\nto protect property from damage caused by leaking pipes or tanks."
+          ],
+          [
+            "1.1",
+            "An automatic excess flow valve acts as a flow switch (‘fuse’) to automatically stop the flow of\nwater and prevent uncontrolled release when the flow of water exceeds a predetermined rate\n(such as may occur in the event of failure of water supply pipes and tanks)."
+          ],
+          [
+            "1.2",
+            "Assess the water supplies to WC areas or facilities as per criterion 3 regardless of whether the\nWC areas or facilities are fitted out or not."
+          ],
+          [
+            "Building type specific",
+            null
+          ],
+          [
+            "2.0",
+            "Healthcare Flow control device criteria are not applicable to toilet facilities in clinical areas."
+          ],
+          [
+            "2.1",
+            "Short and long term residential accommodation Flow control devices in WC areas or\nfacilities are not required for facilities in residential areas of long-term residential\naccommodation. This is due to the fact that those occupants have a sense of ownership and\nwould identify and report a potential leak. This applies to all of the following: ensuite facilities\nin individual bedrooms, a single bathroom shared between several individual bedrooms (e.g. in\nhalls of residence), or one single bathroom in an independent dwelling (e.g. within a care\nhome). The requirement for flow control devices still applies for the rest of the facilities within\nlong-term residential accommodation.\nWhere WC facilities are only provided within the residential areas of a long-term residential\naccommodation project (e.g. there is no staff WC), the credit is filtered out of the assessment.\nHowever, for short term accommodation, the credit still applies to buildings that have guest\nbedrooms with ensuite facilities, e.g. hotel rooms, and communal WC areas or facilities, e.g.\ncommunal WC facilities in hotels and hostels."
+          ],
+          [
+            "2.2",
+            "Short term stay residential institutions (such as hotels) Compliance with criterion 3 for\nWC facilities in hotel rooms can be achieved through providing the required flow control\ndevices to groups of 10 rooms, rather than to each individual room."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          238,
+          239
+        ]
+      },
+      {
+        "id": "L19_T1",
+        "bbox": [
+          107.6,
+          413.1,
+          524.5,
+          486.4
+        ],
+        "col_count": 3,
+        "rows": [
+          [
+            "Criteria",
+            "Interim design stage",
+            "Final post-construction stage"
+          ],
+          [
+            "All",
+            "The relevant sections or clauses of the\nbuilding specification or contract.\nDesign drawings.\nWhere available, manufacturer's\nproduct details.",
+            "Assessor’s site inspection report and\nphotographic evidence.\nFinal construction drawings or\nequivalent.\nManufacturer's product details."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          240
+        ]
+      }
+    ],
+    "xrefs": []
+  },
+  {
+    "code": "Wat04",
+    "title": "Water efficient equipment",
+    "manual_pages": [
+      241,
+      243
+    ],
+    "raw_text": "1\nNot applicable\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards\nAim\nTo reduce water consumption for uses not assessed under Wat 01 by encouraging specification of water\nefficient equipment.\nValue\n– Reduce potable water use in high consumption equipment and associated energy consumption.\n– Reduce costs related to water consumption and water heating.\n– Promote innovation and manufacture of more water efficient equipment.\nContext\nWater consumption associated with non-domestic scale, non-sanitary water uses can be very significant\ndepending on the building type and relevant uses. Industrial processes and other project-specific processes do\nnot always require water to be treated to potable quality. Therefore there is scope to adopt more imaginative\nsolutions to meeting this demand through alternative sources, reuse or recycling solutions which are often\nproject specific.\nWith the predicted higher climatic temperatures and drier summers, the need for irrigation is likely to increase\nin the UK, impacting on our ability as a society to provide adequate water supplies at a reasonable cost.\nTherefore, there is a need to address these types of water uses, encouraging reductions in potable water\nconsumption.\nAssessment scope\n[TABLE L20_T1]\nSpecific notes\n[TABLE L21_T1]\n[TABLE L21_T2]\nAssessment criteria\nOne credit\n1\nIdentify all water demands from uses other than those listed under - Calculation of water efficiency\nperformance on page 225 that could be realistically mitigated or reduced. Where there is no water\ndemand from uses other than domestic-scale, sanitary use components in the building, this issue is not\napplicable.\n2\nIdentify systems or processes to reduce the relevant water demand (criterion 1 above), and establish,\nthrough either good practice design or specification, a demonstrable reduction in the total water demand\nof the building.\nMethodology\nNone.\nEvidence\n[TABLE L21_T3]\nDefinitions\nNon-domestic scale, non-sanitary water uses\nFor the purposes of this BREEAM Issue, non-domestic scale, non- sanitary water uses refer to any building-\nintegrated water uses not assessed under Wat 01. This includes, but is not limited to the following:\n– Swimming pools\n– Recreational hot tubs and hydrotherapy pools\n– Equipment used for irrigation\n– Vehicle wash equipment\n– Project-specific industrial processes\n– Water filtration and treatment processes\n– Building services (e.g. cooling towers and humidification systems)\nVehicle wash\nA commercial-scale automatic, semi-automatic or manual system for washing vehicles. This includes wheel\nand chassis wash, fixed gantry and screen wash systems using brushes, spray or handheld jet hoses.\nAdditional information\nNone.",
+    "normalized_text": "1\nNot applicable\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards\nAim\nTo reduce water consumption for uses not assessed under Wat 01 by encouraging specification of water\nefficient equipment.\nValue\n– Reduce potable water use in high consumption equipment and associated energy consumption.\n– Reduce costs related to water consumption and water heating.\n– Promote innovation and manufacture of more water efficient equipment.\nContext\nWater consumption associated with non-domestic scale, non-sanitary water uses can be very significant\ndepending on the building type and relevant uses. Industrial processes and other project-specific processes do\nnot always require water to be treated to potable quality. Therefore there is scope to adopt more imaginative\nsolutions to meeting this demand through alternative sources, reuse or recycling solutions which are often\nproject specific.\nWith the predicted higher climatic temperatures and drier summers, the need for irrigation is likely to increase\nin the UK, impacting on our ability as a society to provide adequate water supplies at a reasonable cost.\nTherefore, there is a need to address these types of water uses, encouraging reductions in potable water\nconsumption.\nAssessment scope\n[TABLE L20_T1]\nSpecific notes\n[TABLE L21_T1]\n[TABLE L21_T2]\nAssessment criteria\nOne credit\n1\nIdentify all water demands from uses other than those listed under - Calculation of water efficiency\nperformance on page 225 that could be realistically mitigated or reduced. Where there is no water\ndemand from uses other than domestic-scale, sanitary use components in the building, this issue is not\napplicable.\n2\nIdentify systems or processes to reduce the relevant water demand (criterion 1 above), and establish,\nthrough either good practice design or specification, a demonstrable reduction in the total water demand\nof the building.\nMethodology\nNone.\nEvidence\n[TABLE L21_T3]\nDefinitions\nNon-domestic scale, non-sanitary water uses\nFor the purposes of this BREEAM Issue, non-domestic scale, non- sanitary water uses refer to any building-\nintegrated water uses not assessed under Wat 01. This includes, but is not limited to the following:\n– Swimming pools\n– Recreational hot tubs and hydrotherapy pools\n– Equipment used for irrigation\n– Vehicle wash equipment\n– Project-specific industrial processes\n– Water filtration and treatment processes\n– Building services (e.g. cooling towers and humidification systems)\nVehicle wash\nA commercial-scale automatic, semi-automatic or manual system for washing vehicles. This includes wheel\nand chassis wash, fixed gantry and screen wash systems using brushes, spray or handheld jet hoses.\nAdditional information\nNone.",
+    "subsections": [
+      {
+        "heading": null,
+        "text": "1\nNot applicable\n1\n1\nFully fitted\nSimple building\nShell & core\nShell only\nNo minimum\nstandards",
+        "criteria": []
+      },
+      {
+        "heading": "Aim",
+        "text": "To reduce water consumption for uses not assessed under Wat 01 by encouraging specification of water\nefficient equipment.",
+        "criteria": []
+      },
+      {
+        "heading": "Value",
+        "text": "– Reduce potable water use in high consumption equipment and associated energy consumption.\n– Reduce costs related to water consumption and water heating.\n– Promote innovation and manufacture of more water efficient equipment.",
+        "criteria": []
+      },
+      {
+        "heading": "Context",
+        "text": "Water consumption associated with non-domestic scale, non-sanitary water uses can be very significant\ndepending on the building type and relevant uses. Industrial processes and other project-specific processes do\nnot always require water to be treated to potable quality. Therefore there is scope to adopt more imaginative\nsolutions to meeting this demand through alternative sources, reuse or recycling solutions which are often\nproject specific.\nWith the predicted higher climatic temperatures and drier summers, the need for irrigation is likely to increase\nin the UK, impacting on our ability as a society to provide adequate water supplies at a reasonable cost.\nTherefore, there is a need to address these types of water uses, encouraging reductions in potable water\nconsumption.",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment scope",
+        "text": "[TABLE L20_T1]",
+        "criteria": []
+      },
+      {
+        "heading": "Specific notes",
+        "text": "[TABLE L21_T1]\n[TABLE L21_T2]",
+        "criteria": []
+      },
+      {
+        "heading": "Assessment criteria",
+        "text": "One credit\n1\nIdentify all water demands from uses other than those listed under - Calculation of water efficiency\nperformance on page 225 that could be realistically mitigated or reduced. Where there is no water\ndemand from uses other than domestic-scale, sanitary use components in the building, this issue is not\napplicable.\n2\nIdentify systems or processes to reduce the relevant water demand (criterion 1 above), and establish,\nthrough either good practice design or specification, a demonstrable reduction in the total water demand\nof the building.",
+        "criteria": [
+          {
+            "id": "1",
+            "group": "One credit",
+            "text": "Identify all water demands from uses other than those listed under - Calculation of water efficiency\nperformance on page 225 that could be realistically mitigated or reduced. Where there is no water\ndemand from uses other than domestic-scale, sanitary use components in the building, this issue is not\napplicable."
+          },
+          {
+            "id": "2",
+            "group": "One credit",
+            "text": "Identify systems or processes to reduce the relevant water demand (criterion 1 above), and establish,\nthrough either good practice design or specification, a demonstrable reduction in the total water demand\nof the building."
+          }
+        ]
+      },
+      {
+        "heading": "Methodology",
+        "text": "None.",
+        "criteria": []
+      },
+      {
+        "heading": "Evidence",
+        "text": "[TABLE L21_T3]",
+        "criteria": []
+      },
+      {
+        "heading": "Definitions",
+        "text": "Non-domestic scale, non-sanitary water uses\nFor the purposes of this BREEAM Issue, non-domestic scale, non- sanitary water uses refer to any building-\nintegrated water uses not assessed under Wat 01. This includes, but is not limited to the following:\n– Swimming pools\n– Recreational hot tubs and hydrotherapy pools\n– Equipment used for irrigation\n– Vehicle wash equipment\n– Project-specific industrial processes\n– Water filtration and treatment processes\n– Building services (e.g. cooling towers and humidification systems)\nVehicle wash\nA commercial-scale automatic, semi-automatic or manual system for washing vehicles. This includes wheel\nand chassis wash, fixed gantry and screen wash systems using brushes, spray or handheld jet hoses.",
+        "criteria": []
+      },
+      {
+        "heading": "Additional information",
+        "text": "None.",
+        "criteria": []
+      }
+    ],
+    "tables": [
+      {
+        "id": "L20_T1",
+        "bbox": [
+          107.6,
+          615.6,
+          524.5,
+          691.9
+        ],
+        "col_count": 5,
+        "rows": [
+          [
+            "",
+            "Fully\nfitted",
+            "Simple\nbuilding",
+            "Shell and core",
+            "Shell only"
+          ],
+          [
+            "Applicable assessment\ncriteria",
+            "All",
+            "None",
+            "All",
+            "All"
+          ],
+          [
+            "Assessment type specific\nnotes",
+            "See ref 1.1",
+            "See ref 1.1",
+            "See ref 1.0 and\n1.1",
+            "See ref 1.0 and\n1.1"
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          241
+        ]
+      },
+      {
+        "id": "L21_T1",
+        "bbox": [
+          107.6,
+          124.2,
+          524.5,
+          176.6
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Assessment type specific",
+            null
+          ],
+          [
+            "1.0",
+            "Where the only non-domestic scale, non-sanitary water demand comes from an irrigation\nsystem specified or installed by the developer, then use this system to assess compliance."
+          ],
+          [
+            "1.1",
+            "Where there are no water demands beyond those of Wat 01, the issue will be filtered out."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          242
+        ]
+      },
+      {
+        "id": "L21_T2",
+        "bbox": [
+          107.6,
+          191.0,
+          524.5,
+          217.9
+        ],
+        "col_count": 2,
+        "rows": [
+          [
+            "Building type specific",
+            null
+          ],
+          [
+            "None",
+            ""
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          242
+        ]
+      },
+      {
+        "id": "L21_T3",
+        "bbox": [
+          107.6,
+          495.6,
+          524.5,
+          688.1
+        ],
+        "col_count": 3,
+        "rows": [
+          [
+            "Criteria",
+            "Interim design stage",
+            "Final post-construction stage"
+          ],
+          [
+            "All",
+            "Documentation detailing all water\ndemands from uses other than\ndomestic scale drinking and sanitary\nuse components such as specifications,\ndesign drawings or schedules.\nCalculations and data sources used to\ndemonstrate the estimates annual\nwater consumption of systems and\nequipment.\nWhere available: Manufacturer's\nproduct details for the system or\nequipment and for the specified\nproduct to show details of water\nconsumption.",
+            "As-built documentation detailing all\nwater demands from uses other than\ndomestic scale drinking and sanitary use\ncomponents such as final construction\ndrawings or schedules.\nFinal calculations and data sources used\nto demonstrate the estimated annual\nwater consumption of installed systems\nand equipment.\nManufacturer's product details for the\nsystem or equipment and for the\ninstalled product to show details of the\nwater consumption\nAssessor’s site inspection report and\nphotographic evidence."
+          ]
+        ],
+        "caption": null,
+        "pages": [
+          242
+        ]
+      }
+    ],
+    "xrefs": [
+      "Wat 01 by encouraging specification of water",
+      "on page 225"
+    ]
+  }
+]

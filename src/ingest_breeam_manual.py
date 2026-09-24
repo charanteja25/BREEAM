@@ -49,6 +49,10 @@ def read_page(page, page_index):
     # Running header = "BREEAM UK New Construction" + credit title (or category name)
     label = next((l for l in header_lines if l != "BREEAM UK New Construction"), None)
 
+    tick_images = [im["bbox"] for im in page.get_image_info()
+                   if (im["bbox"][2] - im["bbox"][0]) <= 20
+                   and (im["bbox"][3] - im["bbox"][1]) <= 20]
+
     tables = []
     for j, t in enumerate(page.find_tables().tables):
         tables.append({
@@ -56,7 +60,7 @@ def read_page(page, page_index):
             "manual_page": manual_page,
             "bbox": tuple(round(v, 1) for v in t.bbox),
             "col_count": t.col_count,
-            "rows": t.extract(),
+            "rows": fill_ticks(t.extract(), t, tick_images),
             "caption": None,
         })
 
@@ -108,6 +112,26 @@ def read_page(page, page_index):
     return {"manual_page": manual_page, "label": label, "tables": tables, "lines": lines}
 
 
+def fill_ticks(rows, table, images):
+    """Some tables mark a cell true/relevant with a small embedded checkmark
+    icon instead of text (e.g. Table 7.6's building-amenity matrix) -- these
+    extract as empty strings, since find_tables() only reads text. Any empty
+    cell whose bbox contains one of the page's tick-sized images (<=20x20pt)
+    gets filled with a literal check mark."""
+    filled = [list(r) for r in rows]
+    for ri, row in enumerate(table.rows):
+        for ci, cell_bbox in enumerate(row.cells):
+            if cell_bbox is None or (filled[ri][ci] or "").strip():
+                continue
+            cx0, cy0, cx1, cy1 = cell_bbox
+            for ix0, iy0, ix1, iy1 in images:
+                icx, icy = (ix0 + ix1) / 2, (iy0 + iy1) / 2
+                if cx0 <= icx <= cx1 and cy0 <= icy <= cy1:
+                    filled[ri][ci] = "✓"
+                    break
+    return filled
+
+
 def inside(block, table_bbox, min_overlap=0.5):
     """True if at least half of the block's area lies within the table."""
     bx0, by0, bx1, by1 = block
@@ -138,6 +162,7 @@ def stitch_continuations(tables, page_height):
             and t["bbox"][1] <= TOP_MAX
             and t["col_count"] == prev["col_count"]
             and t is first_on_page(tables, t)
+            and t.get("caption") is None   # a real continuation never has its own caption
         )
         if is_continuation:
             rows = t["rows"]
