@@ -194,8 +194,9 @@ def group_into_credits(pages):
 
 
 # ---------------------------------------------------------- section parsing
-CRIT_NUM_RE = re.compile(r'^(\d+)(?:\.([a-z]))?$')
-GROUP_RE = re.compile(r'^(Prerequisite|(?:One|Two|Three|Four|Five|Six|\d+) credits?\b.*)$')
+INLINE_CRIT_RE = re.compile(r'^(\d+(?:\.[a-z](?:\.[ivx]+)?)?)(?:$|\s+(?=[A-Z]))')
+GROUP_RE = re.compile(r'^(Prerequisite\b.*|(?:One|Two|Three|Four|Five|Six|Up to \w+) credits?\b.*|\d+ credits?\b.*)$')
+ROMAN_SEQUENCE = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"]
 
 
 def split_subsections(lines):
@@ -213,53 +214,70 @@ def split_subsections(lines):
 
 
 def next_expected(prev):
-    """Criterion ids allowed to follow `prev` (e.g. after '2' -> '2.a' or '3')."""
+    """Criterion ids allowed to follow `prev`: the next one at the same
+    level, or the first one a level down (e.g. after '2' -> '3' or '2.a';
+    after '3.b' -> '3.c' or '3.b.i'; after '3.b.i' -> '3.b.ii' or '3.c')."""
     if prev is None:
         return {"1"}
-    num, letter = (prev.split(".") + [None])[:2]
+    num, letter, roman = (prev.split(".") + [None, None])[:3]
     allowed = {str(int(num) + 1)}
-    allowed.add(f"{num}.{chr(ord(letter) + 1)}" if letter else f"{num}.a")
+    if roman:
+        idx = ROMAN_SEQUENCE.index(roman) if roman in ROMAN_SEQUENCE else -1
+        if 0 <= idx < len(ROMAN_SEQUENCE) - 1:
+            allowed.add(f"{num}.{letter}.{ROMAN_SEQUENCE[idx + 1]}")
+        allowed.add(f"{num}.{chr(ord(letter) + 1)}")
+    elif letter:
+        allowed.add(f"{num}.{chr(ord(letter) + 1)}")
+        allowed.add(f"{num}.{letter}.i")
+    else:
+        allowed.add(f"{num}.a")
     return allowed
 
 
+def match_criterion_start(subline, last_id):
+    """If `subline` begins with the criterion id expected next -- either
+    alone, or followed by its sentence starting right there (e.g. '11
+    Achieve criterion 10.') -- returns (id, same_line_tail). Returns None
+    if the id isn't the one expected next, so stray numbers (table cells,
+    points, page refs) are never mistaken for a new criterion."""
+    stripped = subline.strip()
+    m = INLINE_CRIT_RE.match(stripped)
+    if not m:
+        return None
+    cand = m.group(1)
+    if cand not in next_expected(last_id):
+        return None
+    return cand, stripped[m.end():]
+
+
 def split_criteria(lines):
-    """Splits Assessment criteria into numbered criteria. A bare number line
-    only starts a new criterion if it is the next one in sequence, so stray
-    numbers (table cells, points) are not mistaken for criteria."""
+    """Splits Assessment criteria into numbered criteria, each optionally
+    nested (num, num.letter, num.letter.roman). `lines` is a list of raw
+    text blocks, each possibly holding several printed lines -- a
+    criterion's number can be the first line of a block (as with a bare
+    '1' opening a credit) or buried a few lines into one (as with a
+    building-type caveat sentence ending, then '7' on its own line), so
+    every block is split into its individual lines and each one is
+    checked in turn."""
     criteria, current, group, last_id = [], None, None, None
-    for line in lines:
-        first = line.split("\n", 1)
-        m = CRIT_NUM_RE.match(first[0].strip())
-        if m and first[0].strip() in next_expected(last_id):
-            last_id = first[0].strip()
-            current = {"id": last_id, "group": group, "lines": []}
-            criteria.append(current)
-            if len(first) > 1:
-                current["lines"].append(first[1])
-            continue
-        if GROUP_RE.match(line.split("\n")[0]):
-            group_line, *rest = line.split("\n")
-            group = group_line.strip()
-            if rest:                      # group label and criterion number in one block
-                for c in split_criteria_block(rest, group, last_id):
-                    last_id = c["id"]
-                    criteria.append(c)
-                    current = c
-            continue
-        if current:
-            current["lines"].append(line)
+    for block in lines:
+        for subline in block.split("\n"):
+            hit = match_criterion_start(subline, last_id)
+            if hit:
+                last_id, tail = hit
+                current = {"id": last_id, "group": group, "lines": []}
+                criteria.append(current)
+                if tail:
+                    current["lines"].append(tail)
+                continue
+            if GROUP_RE.match(subline):
+                group = subline.strip()
+                continue
+            if current:
+                current["lines"].append(subline)
     for c in criteria:
         c["text"] = "\n".join(c.pop("lines")).strip()
     return criteria
-
-
-def split_criteria_block(rest, group, last_id):
-    """Handles a block like 'Two credits – ...\\n1\\nNo later than ...'."""
-    out = []
-    head = rest[0].strip()
-    if head in next_expected(last_id):
-        out.append({"id": head, "group": group, "lines": ["\n".join(rest[1:])]})
-    return out
 
 
 def parse_credit(credit, alias):
